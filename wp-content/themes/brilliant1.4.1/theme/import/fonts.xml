@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<fonts>
+  <font type="content" name="Arial">
+    <font_name>Arial</font_name>
+    <font_parameter>Arial, Helvetica, 'Nimbus Sans L', sans-serif</font_parameter>
+  </font>
+  <font type="content" name="Calibri">
+    <font_name>Calibri</font_name>
+    <font_parameter>Calibri, 'AppleGothic', 'MgOpen Modata', sans-serif</font_parameter>
+  </font>
+  <font type="content" name="Trebuchet MS">
+    <font_name>Trebuchet MS</font_name>
+    <font_parameter>'Trebuchet MS', Helvetica, Garuda, sans-serif</font_parameter>
+  </font>
+  <font type="content" name="Comic Sans MS">
+    <font_name>Comic Sans MS</font_name>
+    <font_parameter>'Comic Sans MS', Monaco, 'TSCu_Comic', cursive</font_parameter>
+  </font>
+  <font type="content" name="Georgia">
+    <font_name>Georgia</font_name>
+    <font_parameter>Georgia, Times, 'Century Schoolbook L', serif</font_parameter>
+  </font>
+  <font type="content" name="Verdana">
+    <font_name>Verdana</font_name>
+    <font_parameter>Verdana, Geneva, 'DejaVu Sans', sans-serif</font_parameter>
+  </font>
+  <font type="content" name="Tahoma">
+    <font_name>Tahoma</font_name>
+    <font_parameter>Tahoma, Geneva, Kalimati, sans-serif</font_parameter>
+  </font>
+  <font type="content" name="Lucida Sans">
+    <font_name>Lucida Sans</font_name>
+    <font_parameter>'Lucida Sans Unicode', 'Lucida Grande', Garuda, sans-serif</font_parameter>
+  </font>
+  <font type="content" name="Times New Roman">
+    <font_name>Times New Roman</font_name>
+    <font_parameter>'Times New Roman', Times, 'Nimbus Roman No9 L', serif</font_parameter>
+  </font>
+  <font type="content" name="Courier New">
+    <font_name>Courier New</font_name>
+    <font_parameter>'Courier New', Courier, 'Nimbus Mono L', monospace</font_parameter>
+  </font>
+  <font type="heading" name="Allan">
+    <font_name>Allan</font_name>
+    <font_parameter>Allan</font_parameter>
+  </font>
+  <font type="heading" name="Allerta">
+    <font_name>Allerta</font_name>
+    <font_parameter>Allerta</font_parameter>
+  </font>
+  <font type="heading" name="Allerta Stencil">
+    <font_name>Allerta Stencil</font_name>
+    <font_parameter>Allerta+Stencil</font_parameter>
+  </font>
+  <font type="heading" name="Amaranth">
+    <font_name>Amaranth</font_name>
+    <font_parameter>Amaranth</font_parameter>
+  </font>
+  <font type="heading" name="Anonymous Pro">
+    <font_name>Anonymous Pro</font_name>
+    <font_parameter>Anonymous+Pro</font_parameter>
+  </font>
+  <font type="heading" name="Anton">
+    <font_name>Anton</font_name>
+    <font_parameter>Anton</font_parameter>
+  </font>
+  <font type="heading" name="Arimo">
+    <font_name>Arimo</font_name>
+    <font_parameter>Arimo</font_parameter>
+  </font>
+  <font type="heading" name="Arvo">
+    <font_name>Arvo</font_name>
+    <font_parameter>Arvo</font_parameter>
+  </font>
+  <font type="heading" name="Astloch">
+    <font_name>Astloch</font_name>
+    <font_parameter>Astloch</font_parameter>
+  </font>
+  <font type="heading" name="Bentham">
+    <font_name>Bentham</font_name>
+    <font_parameter>Bentham</font_parameter>
+  </font>
+  <font type="heading" name="Bevan">
+    <font_name>Bevan</font_name>
+    <font_parameter>Bevan</font_parameter>
+  </font>
+  <font type="heading" name="Bowlby One SC">
+    <font_name>Bowlby One SC</font_name>
+    <font_parameter>Bowlby+One+SC</font_parameter>
+  </font>
+  <font type="heading" name="Buda">
+    <font_name>Buda</font_name>
+    <font_parameter>Buda:light</font_parameter>
+  </font>
+  <font type="heading" name="Cabin">
+    <font_name>Cabin</font_name>
+    <font_parameter>Cabin</font_parameter>
+  </font>
+  <font type="heading" name="Cabin Sketch">
+    <font_name>Cabin Sketch</font_name>
+    <font_parameter>Cabin+Sketch</font_parameter>
+  </font>
+  <font type="heading" name="Calligraffitti">
+    <font_name>Calligraffitti</font_name>
+    <font_parameter>Calligraffitti</font_parameter>
+  </font>
+  <font type="heading" name="Cambo">
+    <font_name>Cambo</font_name>
+    <font_parameter>Cambo</font_parameter>
+  </font>
+  <font type="heading" name="Candal">
+    <font_name>Candal</font_name>
+    <font_parameter>Candal</font_parameter>
+  </font>
+  <font type="heading" name="Cantarell">
+    <font_name>Cantarell</font_name>
+    <font_parameter>Cantarell</font_parameter>
+  </font>
+  <font type="heading" name="Cardo">
+    <font_name>Cardo</font_name>
+    <font_parameter>Cardo</font_parameter>
+  </font>
+  <font type="heading" name="Cherry Cream Soda">
+    <font_name>Cherry Cream Soda</font_name>
+    <font_parameter>Cherry+Cream+Soda</font_parameter>
+  </font>
+  <font type="heading" name="Chewy">
+    <font_name>Chewy</font_name>
+    <font_parameter>Chewy</font_parameter>
+  </font>
+  <font type="heading" name="Coda">
+    <font_name>Coda</font_name>
+    <font_parameter>Coda:800</font_parameter>
+  </font>
+  <font type="heading" name="Coda Caption">
+    <font_name>Coda Caption</font_name>
+    <font_parameter>Coda+Caption:800</font_parameter>
+  </font>
+  <font type="heading" name="Coming Soon">
+    <font_name>Coming Soon</font_name>
+    <font_parameter>Coming+Soon</font_parameter>
+  </font>
+  <font type="heading" name="Cookie">
+    <font_name>Cookie</font_name>
+    <font_parameter>Cookie</font_parameter>
+  </font>
+  <font type="heading" name="Copse">
+    <font_name>Copse</font_name>
+    <font_parameter>Copse</font_parameter>
+  </font>
+  <font type="heading" name="Corben">
+    <font_name>Corben</font_name>
+    <font_parameter>Corben</font_parameter>
+  </font>
+  <font type="heading" name="Cousine">
+    <font_name>Cousine</font_name>
+    <font_parameter>Cousine</font_parameter>
+  </font>
+  <font type="heading" name="Covered By Your Grace">
+    <font_name>Covered By Your Grace</font_name>
+    <font_parameter>Covered+By+Your+Grace</font_parameter>
+  </font>
+  <font type="heading" name="Crafty Girls">
+    <font_name>Crafty Girls</font_name>
+    <font_parameter>Crafty+Girls</font_parameter>
+  </font>
+  <font type="heading" name="Crete Round">
+    <font_name>Crete Round</font_name>
+    <font_parameter>Crete+Round</font_parameter>
+  </font>
+  <font type="heading" name="Crimson Text">
+    <font_name>Crimson Text</font_name>
+    <font_parameter>Crimson+Text</font_parameter>
+  </font>
+  <font type="heading" name="Crushed">
+    <font_name>Crushed</font_name>
+    <font_parameter>Crushed</font_parameter>
+  </font>
+  <font type="heading" name="Cuprum">
+    <font_name>Cuprum</font_name>
+    <font_parameter>Cuprum</font_parameter>
+  </font>
+  <font type="heading" name="Dancing Script">
+    <font_name>Dancing Script</font_name>
+    <font_parameter>Dancing+Script</font_parameter>
+  </font>
+  <font type="heading" name="Droid Sans">
+    <font_name>Droid Sans</font_name>
+    <font_parameter>Droid+Sans</font_parameter>
+  </font>
+  <font type="heading" name="Droid Sans Mono">
+    <font_name>Droid Sans Mono</font_name>
+    <font_parameter>Droid+Sans+Mono</font_parameter>
+  </font>
+  <font type="heading" name="Droid Serif">
+    <font_name>Droid Serif</font_name>
+    <font_parameter>Droid+Serif</font_parameter>
+  </font>
+  <font type="heading" name="EB Garamond">
+    <font_name>EB Garamond</font_name>
+    <font_parameter>EB+Garamond</font_parameter>
+  </font>
+  <font type="heading" name="Expletus Sans">
+    <font_name>Expletus Sans</font_name>
+    <font_parameter>Expletus+Sans</font_parameter>
+  </font>
+  <font type="heading" name="Fontdiner Swanky">
+    <font_name>Fontdiner Swanky</font_name>
+    <font_parameter>Fontdiner+Swanky</font_parameter>
+  </font>
+  <font type="heading" name="Geo">
+    <font_name>Geo</font_name>
+    <font_parameter>Geo</font_parameter>
+  </font>
+  <font type="heading" name="Goudy Bookletter 1911">
+    <font_name>Goudy Bookletter 1911</font_name>
+    <font_parameter>Goudy+Bookletter+1911</font_parameter>
+  </font>
+  <font type="heading" name="Gruppo">
+    <font_name>Gruppo</font_name>
+    <font_parameter>Gruppo</font_parameter>
+  </font>
+  <font type="heading" name="Homemade Apple">
+    <font_name>Homemade Apple</font_name>
+    <font_parameter>Homemade+Apple</font_parameter>
+  </font>
+  <font type="heading" name="IM Fell DW Pica">
+    <font_name>IM Fell DW Pica</font_name>
+    <font_parameter>IM+Fell+DW+Pica</font_parameter>
+  </font>
+  <font type="heading" name="IM Fell French Canon SC">
+    <font_name>IM Fell French Canon SC</font_name>
+    <font_parameter>IM+Fell+French+Canon+SC</font_parameter>
+  </font>
+  <font type="heading" name="IM Fell French Canon">
+    <font_name>IM Fell French Canon</font_name>
+    <font_parameter>IM+Fell+French+Canon</font_parameter>
+  </font>
+  <font type="heading" name="IM Fell Great Primer SC">
+    <font_name>IM Fell Great Primer SC</font_name>
+    <font_parameter>IM+Fell+Great+Primer+SC</font_parameter>
+  </font>
+  <font type="heading" name="IM Fell Great Primer">
+    <font_name>IM Fell Great Primer</font_name>
+    <font_parameter>IM+Fell+Great+Primer</font_parameter>
+  </font>
+  <font type="heading" name="IM Fell English SC">
+    <font_name>IM Fell English SC</font_name>
+    <font_parameter>IM+Fell+English+SC</font_parameter>
+  </font>
+  <font type="heading" name="IM Fell English">
+    <font_name>IM Fell English</font_name>
+    <font_parameter>IM+Fell+English</font_parameter>
+  </font>
+  <font type="heading" name="IM Fell DW Pica SC">
+    <font_name>IM Fell DW Pica SC</font_name>
+    <font_parameter>IM+Fell+DW+Pica+SC</font_parameter>
+  </font>
+  <font type="heading" name="IM Fell Double Pica SC">
+    <font_name>IM Fell Double Pica SC</font_name>
+    <font_parameter>IM+Fell+Double+Pica+SC</font_parameter>
+  </font>
+  <font type="heading" name="IM Fell Double Pica">
+    <font_name>IM Fell Double Pica</font_name>
+    <font_parameter>IM+Fell+Double+Pica</font_parameter>
+  </font>
+  <font type="heading" name="Inconsolata">
+    <font_name>Inconsolata</font_name>
+    <font_parameter>Inconsolata</font_parameter>
+  </font>
+  <font type="heading" name="Indie Flower">
+    <font_name>Indie Flower</font_name>
+    <font_parameter>Indie+Flower</font_parameter>
+  </font>
+  <font type="heading" name="Irish Grover">
+    <font_name>Irish Grover</font_name>
+    <font_parameter>Irish+Grover</font_parameter>
+  </font>
+  <font type="heading" name="Josefin Sans">
+    <font_name>Josefin Sans</font_name>
+    <font_parameter>Josefin+Sans</font_parameter>
+  </font>
+  <font type="heading" name="Josefin Slab">
+    <font_name>Josefin Slab</font_name>
+    <font_parameter>Josefin+Slab</font_parameter>
+  </font>
+  <font type="heading" name="Just Another Hand">
+    <font_name>Just Another Hand</font_name>
+    <font_parameter>Just+Another+Hand</font_parameter>
+  </font>
+  <font type="heading" name="Just Me Again Down Here">
+    <font_name>Just Me Again Down Here</font_name>
+    <font_parameter>Just+Me+Again+Down+Here</font_parameter>
+  </font>
+  <font type="heading" name="Kenia">
+    <font_name>Kenia</font_name>
+    <font_parameter>Kenia</font_parameter>
+  </font>
+  <font type="heading" name="Kranky">
+    <font_name>Kranky</font_name>
+    <font_parameter>Kranky</font_parameter>
+  </font>
+  <font type="heading" name="Kreon">
+    <font_name>Kreon</font_name>
+    <font_parameter>Kreon</font_parameter>
+  </font>
+  <font type="heading" name="Kristi">
+    <font_name>Kristi</font_name>
+    <font_parameter>Kristi</font_parameter>
+  </font>
+  <font type="heading" name="Lato">
+    <font_name>Lato</font_name>
+    <font_parameter>Lato</font_parameter>
+  </font>
+  <font type="heading" name="League Script">
+    <font_name>League Script</font_name>
+    <font_parameter>League+Script</font_parameter>
+  </font>
+  <font type="heading" name="Lekton">
+    <font_name>Lekton</font_name>
+    <font_parameter>Lekton</font_parameter>
+  </font>
+  <font type="heading" name="Lobster">
+    <font_name>Lobster</font_name>
+    <font_parameter>Lobster</font_parameter>
+  </font>
+  <font type="heading" name="Luckiest Guy">
+    <font_name>Luckiest Guy</font_name>
+    <font_parameter>Luckiest+Guy</font_parameter>
+  </font>
+  <font type="heading" name="Meddon">
+    <font_name>Meddon</font_name>
+    <font_parameter>Meddon</font_parameter>
+  </font>
+  <font type="heading" name="MedievalSharp">
+    <font_name>MedievalSharp</font_name>
+    <font_parameter>MedievalSharp</font_parameter>
+  </font>
+  <font type="heading" name="Merriweather">
+    <font_name>Merriweather</font_name>
+    <font_parameter>Merriweather</font_parameter>
+  </font>
+  <font type="heading" name="Molengo">
+    <font_name>Molengo</font_name>
+    <font_parameter>Molengo</font_parameter>
+  </font>
+  <font type="heading" name="Mountains of Christmas">
+    <font_name>Mountains of Christmas</font_name>
+    <font_parameter>Mountains+of+Christmas</font_parameter>
+  </font>
+  <font type="heading" name="Neucha">
+    <font_name>Neucha</font_name>
+    <font_parameter>Neucha</font_parameter>
+  </font>
+  <font type="heading" name="Neuton">
+    <font_name>Neuton</font_name>
+    <font_parameter>Neuton</font_parameter>
+  </font>
+  <font type="heading" name="Nobile">
+    <font_name>Nobile</font_name>
+    <font_parameter>Nobile</font_parameter>
+  </font>
+  <font type="heading" name="Nova Script">
+    <font_name>Nova Script</font_name>
+    <font_parameter>Nova+Script</font_parameter>
+  </font>
+  <font type="heading" name="Nova Round">
+    <font_name>Nova Round</font_name>
+    <font_parameter>Nova+Round</font_parameter>
+  </font>
+  <font type="heading" name="Nova Oval">
+    <font_name>Nova Oval</font_name>
+    <font_parameter>Nova+Oval</font_parameter>
+  </font>
+  <font type="heading" name="Nova Mono">
+    <font_name>Nova Mono</font_name>
+    <font_parameter>Nova+Mono</font_parameter>
+  </font>
+  <font type="heading" name="Nova Cut">
+    <font_name>Nova Cut</font_name>
+    <font_parameter>Nova+Cut</font_parameter>
+  </font>
+  <font type="heading" name="Nova Slim">
+    <font_name>Nova Slim</font_name>
+    <font_parameter>Nova+Slim</font_parameter>
+  </font>
+  <font type="heading" name="Nova Flat">
+    <font_name>Nova Flat</font_name>
+    <font_parameter>Nova+Flat</font_parameter>
+  </font>
+  <font type="heading" name="OFL Sorts Mill Goudy TT">
+    <font_name>OFL Sorts Mill Goudy TT</font_name>
+    <font_parameter>OFL+Sorts+Mill+Goudy+TT</font_parameter>
+  </font>
+  <font type="heading" name="Old Standard TT">
+    <font_name>Old Standard TT</font_name>
+    <font_parameter>Old+Standard+TT</font_parameter>
+  </font>
+  <font type="heading" name="Open Sans 300">
+	<font_name>Open Sans</font_name>
+	<font_parameter>Open+Sans:300,300italic,400,400italic,700,700italic</font_parameter>
+  </font>
+  <font type="heading" name="Orbitron">
+    <font_name>Orbitron</font_name>
+    <font_parameter>Orbitron</font_parameter>
+  </font>
+  <font type="heading" name="Oswald">
+    <font_name>Oswald</font_name>
+    <font_parameter>Oswald</font_parameter>
+  </font>
+  <font type="heading" name="Pacifico">
+    <font_name>Pacifico</font_name>
+    <font_parameter>Pacifico</font_parameter>
+  </font>
+  <font type="heading" name="Permanent Marker">
+    <font_name>Permanent Marker</font_name>
+    <font_parameter>Permanent+Marker</font_parameter>
+  </font>
+  <font type="heading" name="Philosopher">
+    <font_name>Philosopher</font_name>
+    <font_parameter>Philosopher</font_parameter>
+  </font>
+  <font type="heading" name="PT Sans">
+    <font_name>PT Sans</font_name>
+    <font_parameter>PT+Sans</font_parameter>
+  </font>
+  <font type="heading" name="PT Sans Caption">
+    <font_name>PT Sans Caption</font_name>
+    <font_parameter>PT+Sans+Caption</font_parameter>
+  </font>
+  <font type="heading" name="PT Sans Narrow">
+    <font_name>PT Sans Narrow</font_name>
+    <font_parameter>PT+Sans+Narrow</font_parameter>
+  </font>
+  <font type="heading" name="PT Serif">
+    <font_name>PT Serif</font_name>
+    <font_parameter>PT+Serif</font_parameter>
+  </font>
+  <font type="heading" name="PT Serif Caption">
+    <font_name>PT Serif Caption</font_name>
+    <font_parameter>PT+Serif+Caption</font_parameter>
+  </font>
+  <font type="heading" name="Puritan">
+    <font_name>Puritan</font_name>
+    <font_parameter>Puritan</font_parameter>
+  </font>
+  <font type="heading" name="Quattrocento">
+    <font_name>Quattrocento</font_name>
+    <font_parameter>Quattrocento</font_parameter>
+  </font>
+  <font type="heading" name="Raleway">
+    <font_name>Raleway</font_name>
+    <font_parameter>Raleway:100</font_parameter>
+  </font>
+  <font type="heading" name="Reenie Beanie">
+    <font_name>Reenie Beanie</font_name>
+    <font_parameter>Reenie+Beanie</font_parameter>
+  </font>
+  <font type="heading" name="Rock Salt">
+    <font_name>Rock Salt</font_name>
+    <font_parameter>Rock+Salt</font_parameter>
+  </font>
+  <font type="heading" name="Schoolbell">
+    <font_name>Schoolbell</font_name>
+    <font_parameter>Schoolbell</font_parameter>
+  </font>
+  <font type="heading" name="Slackey">
+    <font_name>Slackey</font_name>
+    <font_parameter>Slackey</font_parameter>
+  </font>
+  <font type="heading" name="Sniglet">
+    <font_name>Sniglet</font_name>
+    <font_parameter>Sniglet:800</font_parameter>
+  </font>
+  <font type="heading" name="Sunshiney">
+    <font_name>Sunshiney</font_name>
+    <font_parameter>Sunshiney</font_parameter>
+  </font>
+  <font type="heading" name="Syncopate">
+    <font_name>Syncopate</font_name>
+    <font_parameter>Syncopate</font_parameter>
+  </font>
+  <font type="heading" name="Tangerine">
+    <font_name>Tangerine</font_name>
+    <font_parameter>Tangerine</font_parameter>
+  </font>
+  <font type="heading" name="Tinos">
+    <font_name>Tinos</font_name>
+    <font_parameter>Tinos</font_parameter>
+  </font>
+  <font type="heading" name="Ubuntu">
+    <font_name>Ubuntu</font_name>
+    <font_parameter>Ubuntu</font_parameter>
+  </font>
+  <font type="heading" name="UnifrakturCook">
+    <font_name>UnifrakturCook</font_name>
+    <font_parameter>UnifrakturCook</font_parameter>
+  </font>
+  <font type="heading" name="UnifrakturMaguntia">
+    <font_name>UnifrakturMaguntia</font_name>
+    <font_parameter>UnifrakturMaguntia</font_parameter>
+  </font>
+  <font type="heading" name="Unkempt">
+    <font_name>Unkempt</font_name>
+    <font_parameter>Unkempt</font_parameter>
+  </font>
+  <font type="heading" name="VT323">
+    <font_name>VT323</font_name>
+    <font_parameter>VT323</font_parameter>
+  </font>
+  <font type="heading" name="Vibur">
+    <font_name>Vibur</font_name>
+    <font_parameter>Vibur</font_parameter>
+  </font>
+  <font type="heading" name="Vollkorn">
+    <font_name>Vollkorn</font_name>
+    <font_parameter>Vollkorn</font_parameter>
+  </font>
+  <font type="heading" name="Yanone Kaffeesatz">
+    <font_name>Yanone Kaffeesatz</font_name>
+    <font_parameter>Yanone+Kaffeesatz</font_parameter>
+  </font>
+  <font type="heading" name="Walter Turncoat">
+    <font_name>Walter Turncoat</font_name>
+    <font_parameter>Walter+Turncoat</font_parameter>
+  </font>
+</fonts>

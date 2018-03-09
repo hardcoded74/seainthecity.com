@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<forms>
+  <form type="form">
+    <field_number>0</field_number>
+    <field_slug>contact_form_958127231825622000</field_slug>
+    <field_p_slug>contact_form_958127231825622000</field_p_slug>
+    <field_label>Contact Form</field_label>
+    <field_value>s:110:&quot;Message from [%Name%], [%Email%], website - [%Website%]
+with subject: [%Subject%]
+Text of message:
+[%Message%]&quot;;</field_value>
+    <field_descr>a:2:{i:0;s:11:&quot;[%Subject%]&quot;;i:1;s:57:&quot;Thank You! &lt;br /&gt;Your message has been sent successfully.&quot;;}</field_descr>
+    <field_params>a:0:{}</field_params>
+  </form>
+  <form type="text">
+    <field_number>1</field_number>
+    <field_slug>field_833663288264414800</field_slug>
+    <field_p_slug>contact_form_958127231825622000</field_p_slug>
+    <field_label>Name</field_label>
+    <field_value>a:0:{}</field_value>
+    <field_descr>s:0:&quot;&quot;;</field_descr>
+    <field_params>a:4:{i:0;s:8:&quot;required&quot;;i:1;s:10:&quot;minSize[3]&quot;;i:2;s:12:&quot;maxSize[100]&quot;;i:3;s:20:&quot;custom[onlyLetterSp]&quot;;}</field_params>
+  </form>
+  <form type="email">
+    <field_number>2</field_number>
+    <field_slug>field_474038265079918500</field_slug>
+    <field_p_slug>contact_form_958127231825622000</field_p_slug>
+    <field_label>Email</field_label>
+    <field_value>a:0:{}</field_value>
+    <field_descr>s:0:&quot;&quot;;</field_descr>
+    <field_params>a:4:{i:0;s:8:&quot;required&quot;;i:1;N;i:2;N;i:3;s:13:&quot;custom[email]&quot;;}</field_params>
+  </form>
+  <form type="text">
+    <field_number>3</field_number>
+    <field_slug>field_601045036583841000</field_slug>
+    <field_p_slug>contact_form_958127231825622000</field_p_slug>
+    <field_label>Website</field_label>
+    <field_value>a:0:{}</field_value>
+    <field_descr>s:0:&quot;&quot;;</field_descr>
+    <field_params>a:4:{i:0;N;i:1;N;i:2;N;i:3;s:11:&quot;custom[url]&quot;;}</field_params>
+  </form>
+  <form type="text">
+    <field_number>4</field_number>
+    <field_slug>field_683421400357440100</field_slug>
+    <field_p_slug>contact_form_958127231825622000</field_p_slug>
+    <field_label>Subject</field_label>
+    <field_value>a:0:{}</field_value>
+    <field_descr>s:0:&quot;&quot;;</field_descr>
+    <field_params>a:3:{i:0;s:8:&quot;required&quot;;i:1;s:10:&quot;minSize[3]&quot;;i:2;s:12:&quot;maxSize[100]&quot;;}</field_params>
+  </form>
+  <form type="textarea">
+    <field_number>5</field_number>
+    <field_slug>field_674679216727717900</field_slug>
+    <field_p_slug>contact_form_958127231825622000</field_p_slug>
+    <field_label>Message</field_label>
+    <field_value>a:0:{}</field_value>
+    <field_descr>s:0:&quot;&quot;;</field_descr>
+    <field_params>a:2:{i:0;s:8:&quot;required&quot;;i:1;s:10:&quot;minSize[3]&quot;;}</field_params>
+  </form>
+  <form type="form">
+    <field_number>0</field_number>
+    <field_slug>contact_form_widget_239842276173526050</field_slug>
+    <field_p_slug>contact_form_widget_239842276173526050</field_p_slug>
+    <field_label>Contact Form Widget</field_label>
+    <field_value>s:61:&quot;Message from [%Name%], [%Email%]
+with text:
+[%Quick Message%]&quot;;</field_value>
+    <field_descr>a:2:{i:0;s:13:&quot;Quick Message&quot;;i:1;s:57:&quot;Thank You! &lt;br /&gt;Your message has been sent successfully.&quot;;}</field_descr>
+    <field_params>a:0:{}</field_params>
+  </form>
+  <form type="text">
+    <field_number>1</field_number>
+    <field_slug>field_67849373899699810</field_slug>
+    <field_p_slug>contact_form_widget_239842276173526050</field_p_slug>
+    <field_label>Name</field_label>
+    <field_value>a:0:{}</field_value>
+    <field_descr>s:0:&quot;&quot;;</field_descr>
+    <field_params>a:4:{i:0;s:8:&quot;required&quot;;i:1;s:10:&quot;minSize[3]&quot;;i:2;s:12:&quot;maxSize[100]&quot;;i:3;s:20:&quot;custom[onlyLetterSp]&quot;;}</field_params>
+  </form>
+  <form type="email">
+    <field_number>2</field_number>
+    <field_slug>field_533226183385454000</field_slug>
+    <field_p_slug>contact_form_widget_239842276173526050</field_p_slug>
+    <field_label>Email</field_label>
+    <field_value>a:0:{}</field_value>
+    <field_descr>s:0:&quot;&quot;;</field_descr>
+    <field_params>a:4:{i:0;s:8:&quot;required&quot;;i:1;N;i:2;N;i:3;s:13:&quot;custom[email]&quot;;}</field_params>
+  </form>
+  <form type="textarea">
+    <field_number>3</field_number>
+    <field_slug>field_786191551598239600</field_slug>
+    <field_p_slug>contact_form_widget_239842276173526050</field_p_slug>
+    <field_label>Quick Message</field_label>
+    <field_value>a:0:{}</field_value>
+    <field_descr>s:0:&quot;&quot;;</field_descr>
+    <field_params>a:2:{i:0;s:8:&quot;required&quot;;i:1;s:10:&quot;minSize[3]&quot;;}</field_params>
+  </form>
+</forms>

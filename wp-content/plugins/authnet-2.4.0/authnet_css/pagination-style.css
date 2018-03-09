@@ -1,0 +1,47 @@
+/* CSS document of authnet_asersubscrition pagination */
+/* Default styling for unordered list */
+ul.pagination {
+	margin:0px;
+	padding:0px;
+	height:100%;
+	overflow:hidden;
+	font:12px 'Tahoma';
+	list-style-type:none;	
+}
+/* Styling for list items details */
+ul.pagination li.details {
+	padding:7px 10px 7px 10px;
+	font-size:14px;
+	color:#888888;
+}
+/* Default Styling for list items */
+ul.pagination li {
+	float:left;
+	margin:0px;
+	padding:0px;
+	margin-left:5px;
+}
+/* Styling for first list items */
+ul.pagination li:first-child {
+	margin-left:0px;
+}
+/* Styling for list items link page */
+ul.pagination li a {
+	color:black;
+	display:block;
+	text-decoration:none;
+	padding:7px 10px 7px 10px;
+	border-radius:3px;	
+	border:solid 1px #B6B6B6;
+	background:#E6E6E6;
+	background:-webkit-gradient(linear,0 0,0 100%,color-stop(0.02,#FFFFFF),color-stop(0.02,#F3F3F3),color-stop(1,#E6E6E6));
+	background:-moz-linear-gradient(top,#FFFFFF 1px,#F3F3F3 1px,#E6E6E6);
+}
+/* Styling for list items mouse hover & current item */
+ul.pagination li a:hover,ul.pagination li a.current {
+	background:#FFFFFF;
+}
+/* Styling for list items dot dispaly */
+ul.pagination li.dot {
+	padding: 3px 0;
+}

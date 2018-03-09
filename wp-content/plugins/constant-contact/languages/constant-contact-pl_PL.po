@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: constant contact\n"
+"POT-Creation-Date: 2015-10-17 15:16+0800\n"
+"PO-Revision-Date: 2015-10-17 15:16+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../constant-contact.php:73 ../constant-contact.php:259
+#: ../constant-contact.php:260 ../constant-contact.php:265
+#: ../constant-contact.php:266
+msgid "Constant contact form"
+msgstr "Stały Kontakt"
+
+#: ../constant-contact.php:75
+msgid "Check official website for more information"
+msgstr "Sprawdzić oficjalną stronę internetową, aby uzyskać więcej informacji"
+
+#: ../constant-contact.php:76 ../constant-contact.php:92
+#: ../constant-contact.php:249
+msgid "click here"
+msgstr "kliknij tutaj"
+
+#: ../constant-contact.php:85 ../constant-contact.php:317
+#: ../constant-contact.php:318
+msgid "Constant contact"
+msgstr "Stały Kontakt"
+
+#: ../constant-contact.php:87
+msgid ""
+"Constant Contact is an online email marketing service that allows businesses "
+"to stay connected to their customers via email, surveys and event marketing."
+msgstr ""
+"Stały kontakt jest online usługi e-mail marketingu, który umożliwia "
+"przedsiębiorstwom pozostawać w kontakcie z klientami poprzez e-mail, ankiet "
+"i event marketingu."
+
+#: ../constant-contact.php:88
+msgid ""
+"This service can send thousands of emails at one time and maintain status "
+"reports. Learn more about Constant Contact : http://www.constantcontact.com/"
+msgstr ""
+"Usługa ta może wysłać tysiące maili w jednym czasie i utrzymania raporty o "
+"stanie. Dowiedz się więcej o stały kontakt: http://www.constantcontact.com/"
+
+#: ../constant-contact.php:91 ../constant-contact.php:248
+msgid "Check official website for more information and live demo"
+msgstr "Sprawdzić na oficjalnej stronie więcej informacji oraz demo na żywo"
+
+#: ../constant-contact.php:151
+msgid "Details successfully updated."
+msgstr "Szczegóły pomyślnie zaktualizowane."
+
+#: ../constant-contact.php:159
+msgid "Constant Contact Login"
+msgstr "Stały kontakt Zaloguj"
+
+#: ../constant-contact.php:161
+msgid "Constant contact username"
+msgstr "Konto użytkownika"
+
+#: ../constant-contact.php:163
+msgid "Please enter your constant contact username"
+msgstr "Proszę wprowadzić swoją nazwę użytkownika stały kontakt"
+
+#: ../constant-contact.php:165
+msgid "Constant contact password"
+msgstr "Stała hasła kontakt"
+
+#: ../constant-contact.php:167
+msgid "Please enter your constant contact password"
+msgstr "Wpisz hasło stały kontakt"
+
+#: ../constant-contact.php:169
+msgid "Constant contact group"
+msgstr "Stała grupa kontaktowa"
+
+#: ../constant-contact.php:171
+msgid "Please enter your constant contact group"
+msgstr "Proszę wprowadzić swoją stałą grupę kontaktów"
+
+#: ../constant-contact.php:173
+msgid "Widget Setting"
+msgstr "Widżet ustawienie"
+
+#: ../constant-contact.php:175
+msgid "Widget title"
+msgstr "Tytuł widgetu"
+
+#: ../constant-contact.php:177
+msgid "Please enter your widget title"
+msgstr "Podaj widget tytuł."
+
+#: ../constant-contact.php:179
+msgid "Word within text box"
+msgstr "Słowo ciągu polu tekstowym"
+
+#: ../constant-contact.php:181
+msgid "Please enter text within text box"
+msgstr "Proszę wpisać tekst w polu tekstowym"
+
+#: ../constant-contact.php:183
+msgid "Button caption"
+msgstr "Opis przycisku"
+
+#: ../constant-contact.php:185
+msgid "Please enter your button caption"
+msgstr "Wpisz przycisk podpis"
+
+#: ../constant-contact.php:187
+msgid "Short description"
+msgstr "Krótki opis"
+
+#: ../constant-contact.php:189
+msgid "Please enter your widget short description"
+msgstr "Proszę podać krótki opis na temat widżetu."
+
+#: ../constant-contact.php:191
+msgid "Email address Setting"
+msgstr "Ustawienie e-mail"
+
+#: ../constant-contact.php:193
+msgid "From email address"
+msgstr "E-mail od"
+
+#: ../constant-contact.php:195
+msgid "Please enter mail from email address"
+msgstr "Podaj e-mail z adresem"
+
+#: ../constant-contact.php:197
+msgid "Admin email address"
+msgstr "Admin adres e-mail"
+
+#: ../constant-contact.php:199
+msgid "Please enter admin email address"
+msgstr "Proszę podać adres e-mail administratora"
+
+#: ../constant-contact.php:202
+msgid "Admin email notification"
+msgstr "Admin powiadomienia e-mail"
+
+#: ../constant-contact.php:204
+msgid "Send mail to admin"
+msgstr "Wyślij wiadomość do administratora"
+
+#: ../constant-contact.php:209
+msgid "Select your option to receive admin mail"
+msgstr "Wybierz opcję, aby otrzymywać administratora poczty"
+
+#: ../constant-contact.php:211
+msgid "Admin mail subject"
+msgstr "Administrator poczty przedmiotem"
+
+#: ../constant-contact.php:213
+msgid "Please enter admin mail subject"
+msgstr "Podaj administratora poczty tematu"
+
+#: ../constant-contact.php:215
+msgid "Admin mail content"
+msgstr "Admin zawartości poczty"
+
+#: ../constant-contact.php:217
+msgid "Please enter admin mail content"
+msgstr "Podaj administratora treści e-maili. (Słowo kluczowe: ## USEREMAIL ##)"
+
+#: ../constant-contact.php:219
+msgid "User email notification"
+msgstr "Rejestracja Użytkownika"
+
+#: ../constant-contact.php:221
+msgid "Send mail to users"
+msgstr "Wyślij wiadomości do użytkowników którzy skontaktował się z tobą"
+
+#: ../constant-contact.php:226
+msgid "Select your option to send user mail"
+msgstr "Wybierz opcję wysyłania wiadomości użytkownika"
+
+#: ../constant-contact.php:228
+msgid "Users mail subject"
+msgstr "Użytkownicy poczty przedmiotem"
+
+#: ../constant-contact.php:230
+msgid "Please enter user mail subject"
+msgstr "Podaj swój temat wiadomości."
+
+#: ../constant-contact.php:232
+msgid "Users mail content"
+msgstr "Zawartość maila"
+
+#: ../constant-contact.php:234
+msgid "Please enter users mail content"
+msgstr "Podaj użytkownicy poczty zawartości"
+
+#: ../constant-contact.php:236
+msgid "Security Check (Spam Stopper)"
+msgstr "Kontrola bezpieczeństwa (Spam korek)"
+
+#: ../constant-contact.php:237
+msgid "Home URL"
+msgstr "Adres URL strony startowej"
+
+#: ../constant-contact.php:239
+msgid ""
+"This home URL is for security check. We can submit the form only on this "
+"website. "
+msgstr ""
+"Ta strona URL jest do kontroli bezpieczeństwa. Możemy przesłać formularz "
+"tylko na tej stronie."
+
+#: ../constant-contact.php:242
+msgid "Update Setting"
+msgstr "Ustawienie automatycznej aktualizacji"

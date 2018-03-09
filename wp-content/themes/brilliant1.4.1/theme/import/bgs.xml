@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<bgs>
+  <bg type="bg_t">
+    <bg_url>bg_t_1.png</bg_url>
+    <bg_thumb_url>bg_t_1_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>left</bg_position_x>
+    <bg_repeat>repeat</bg_repeat>
+    <bg_attachment>scroll</bg_attachment>
+  </bg>
+  <bg type="bg_t">
+    <bg_url>bg_t_2.png</bg_url>
+    <bg_thumb_url>bg_t_2_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>left</bg_position_x>
+    <bg_repeat>repeat</bg_repeat>
+    <bg_attachment>scroll</bg_attachment>
+  </bg>
+  <bg type="bg_t">
+    <bg_url>bg_t_3.png</bg_url>
+    <bg_thumb_url>bg_t_3_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>left</bg_position_x>
+    <bg_repeat>repeat</bg_repeat>
+    <bg_attachment>scroll</bg_attachment>
+  </bg>
+  <bg type="bg_t">
+    <bg_url>bg_t_4.png</bg_url>
+    <bg_thumb_url>bg_t_4_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>left</bg_position_x>
+    <bg_repeat>repeat</bg_repeat>
+    <bg_attachment>scroll</bg_attachment>
+  </bg>
+  <bg type="bg_t">
+    <bg_url>bg_t_5.png</bg_url>
+    <bg_thumb_url>bg_t_5_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>left</bg_position_x>
+    <bg_repeat>repeat</bg_repeat>
+    <bg_attachment>scroll</bg_attachment>
+  </bg>
+  <bg type="bg_t">
+    <bg_url>bg_t_6.png</bg_url>
+    <bg_thumb_url>bg_t_6_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>left</bg_position_x>
+    <bg_repeat>repeat</bg_repeat>
+    <bg_attachment>scroll</bg_attachment>
+  </bg>
+  <bg type="bg_t">
+    <bg_url>bg_t_7.png</bg_url>
+    <bg_thumb_url>bg_t_7_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>left</bg_position_x>
+    <bg_repeat>repeat</bg_repeat>
+    <bg_attachment>scroll</bg_attachment>
+  </bg>
+  <bg type="bg_t">
+    <bg_url>bg_t_8.png</bg_url>
+    <bg_thumb_url>bg_t_8_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>left</bg_position_x>
+    <bg_repeat>repeat</bg_repeat>
+    <bg_attachment>scroll</bg_attachment>
+  </bg>
+  <bg type="bg_t">
+    <bg_url>bg_t_9.png</bg_url>
+    <bg_thumb_url>bg_t_9_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>left</bg_position_x>
+    <bg_repeat>repeat</bg_repeat>
+    <bg_attachment>scroll</bg_attachment>
+  </bg>
+  <bg type="bg_t">
+    <bg_url>bg_t_10.png</bg_url>
+    <bg_thumb_url>bg_t_10_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>left</bg_position_x>
+    <bg_repeat>repeat</bg_repeat>
+    <bg_attachment>scroll</bg_attachment>
+  </bg>
+  <bg type="bg_t">
+    <bg_url>bg_t_11.png</bg_url>
+    <bg_thumb_url>bg_t_11_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>left</bg_position_x>
+    <bg_repeat>repeat</bg_repeat>
+    <bg_attachment>scroll</bg_attachment>
+  </bg>
+  <bg type="bg_t">
+    <bg_url>bg_t_12.png</bg_url>
+    <bg_thumb_url>bg_t_12_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>left</bg_position_x>
+    <bg_repeat>repeat</bg_repeat>
+    <bg_attachment>scroll</bg_attachment>
+  </bg>
+  <bg type="bg_t">
+    <bg_url>bg_t_0.png</bg_url>
+    <bg_thumb_url>bg_t_0_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>left</bg_position_x>
+    <bg_repeat>repeat</bg_repeat>
+    <bg_attachment>scroll</bg_attachment>
+  </bg>
+  <bg type="bg_t_i">
+    <bg_url>bg_t_i_1.png</bg_url>
+    <bg_thumb_url>bg_t_i_1_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>no-repeat</bg_repeat>
+    <bg_attachment>fixed</bg_attachment>
+  </bg>
+  <bg type="bg_t_i">
+    <bg_url>bg_t_i_2.png</bg_url>
+    <bg_thumb_url>bg_t_i_2_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>no-repeat</bg_repeat>
+    <bg_attachment>fixed</bg_attachment>
+  </bg>
+  <bg type="bg_t_i">
+    <bg_url>bg_t_i_3.png</bg_url>
+    <bg_thumb_url>bg_t_i_3_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>no-repeat</bg_repeat>
+    <bg_attachment>fixed</bg_attachment>
+  </bg>
+  <bg type="bg_t_i">
+    <bg_url>bg_t_i_4.png</bg_url>
+    <bg_thumb_url>bg_t_i_4_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>no-repeat</bg_repeat>
+    <bg_attachment>fixed</bg_attachment>
+  </bg>
+  <bg type="bg_t_i">
+    <bg_url>bg_t_i_5.png</bg_url>
+    <bg_thumb_url>bg_t_i_5_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>no-repeat</bg_repeat>
+    <bg_attachment>fixed</bg_attachment>
+  </bg>
+  <bg type="bg_t_i">
+    <bg_url>bg_t_i_6.png</bg_url>
+    <bg_thumb_url>bg_t_i_6_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>no-repeat</bg_repeat>
+    <bg_attachment>fixed</bg_attachment>
+  </bg>
+  <bg type="bg_i">
+    <bg_url>bg_i_1.jpg</bg_url>
+    <bg_thumb_url>bg_i_1_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>repeat</bg_repeat>
+    <bg_attachment>scroll</bg_attachment>
+  </bg>
+  <bg type="bg_i">
+    <bg_url>bg_i_2.jpg</bg_url>
+    <bg_thumb_url>bg_i_2_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>repeat</bg_repeat>
+    <bg_attachment>scroll</bg_attachment>
+  </bg>
+  <bg type="bg_i">
+    <bg_url>bg_i_3.jpg</bg_url>
+    <bg_thumb_url>bg_i_3_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>repeat</bg_repeat>
+    <bg_attachment>scroll</bg_attachment>
+  </bg>
+  <bg type="bg_i">
+    <bg_url>bg_i_4.jpg</bg_url>
+    <bg_thumb_url>bg_i_4_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>repeat</bg_repeat>
+    <bg_attachment>scroll</bg_attachment>
+  </bg>
+  <bg type="bg_i">
+    <bg_url>bg_i_5.jpg</bg_url>
+    <bg_thumb_url>bg_i_5_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>no-repeat</bg_repeat>
+    <bg_attachment>fixed</bg_attachment>
+  </bg>
+  <bg type="bg_i">
+    <bg_url>bg_i_6.jpg</bg_url>
+    <bg_thumb_url>bg_i_6_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>no-repeat</bg_repeat>
+    <bg_attachment>fixed</bg_attachment>
+  </bg>
+  <bg type="bg_i">
+    <bg_url>bg_i_7.jpg</bg_url>
+    <bg_thumb_url>bg_i_7_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>no-repeat</bg_repeat>
+    <bg_attachment>fixed</bg_attachment>
+  </bg>
+  <bg type="bg_i">
+    <bg_url>bg_i_8.jpg</bg_url>
+    <bg_thumb_url>bg_i_8_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>no-repeat</bg_repeat>
+    <bg_attachment>fixed</bg_attachment>
+  </bg>
+  <bg type="bg_i">
+    <bg_url>bg_i_9.jpg</bg_url>
+    <bg_thumb_url>bg_i_9_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>no-repeat</bg_repeat>
+    <bg_attachment>fixed</bg_attachment>
+  </bg>
+  <bg type="bg_i">
+    <bg_url>bg_i_10.jpg</bg_url>
+    <bg_thumb_url>bg_i_10_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>no-repeat</bg_repeat>
+    <bg_attachment>fixed</bg_attachment>
+  </bg>
+  <bg type="bg_i">
+    <bg_url>bg_i_11.jpg</bg_url>
+    <bg_thumb_url>bg_i_11_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>no-repeat</bg_repeat>
+    <bg_attachment>fixed</bg_attachment>
+  </bg>
+  <bg type="bg_i">
+    <bg_url>bg_i_12.jpg</bg_url>
+    <bg_thumb_url>bg_i_12_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>no-repeat</bg_repeat>
+    <bg_attachment>fixed</bg_attachment>
+  </bg>
+  <bg type="bg_i">
+    <bg_url>bg_i_13.jpg</bg_url>
+    <bg_thumb_url>bg_i_13_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>no-repeat</bg_repeat>
+    <bg_attachment>fixed</bg_attachment>
+  </bg>
+  <bg type="bg_i">
+    <bg_url>bg_i_14.jpg</bg_url>
+    <bg_thumb_url>bg_i_14_thumb.jpg</bg_thumb_url>
+    <bg_position_y>top</bg_position_y>
+    <bg_position_x>center</bg_position_x>
+    <bg_repeat>no-repeat</bg_repeat>
+    <bg_attachment>fixed</bg_attachment>
+  </bg>
+</bgs>

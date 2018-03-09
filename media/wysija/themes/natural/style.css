@@ -1,0 +1,49 @@
+/*
+Theme Name: Natural
+Description: Clean and simple layout adaptable to your style. Serif fonts as titles... looks great.
+Author: ArtCore
+Author URI: http://artcore-illustrations.de/
+Author Email: artcorehro@googlemail.com
+Tags: grey, simple
+
+Note: the styles below offer all the possibilities of Wysija. The plugin won't recognize any additional styles if you add them.
+
+*/
+html {
+    background-color: #ebebeb; /* cannot be transparent and will default to white */
+}
+
+header {
+    background-color: transparent; /* can be transparent */
+}
+body {
+    color:#323232;
+    font-family: "Arial";
+    font-size: 12px;
+    background-color: #f5f5f5; /* can be transparent */
+}
+footer {
+    background-color: #ebebeb; /* can be transparent */
+}
+h1 {
+    color: #323232;
+    font-family: "Arial";
+    font-size: 36px;
+}
+h2 {
+    color: #323232;
+    font-family: "Arial";
+    font-size: 30px;
+}
+h3 {
+    color: #323232;
+    font-family: "Arial";
+    font-size: 24px;
+}
+a {
+    color: #323232;
+    text-decoration:underline;
+}
+unsubscribe {
+    color:#7f7f7f;
+}

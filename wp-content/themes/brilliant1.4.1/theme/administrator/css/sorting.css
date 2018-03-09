@@ -1,0 +1,40 @@
+/**
+ * @package WordPress
+ * @subpackage Brilliant
+ * @since Brilliant 1.0
+ * 
+ * Stylesheet Projects Sorting
+ * Created by CMSMasters
+ * 
+ */
+
+
+#projects-list {margin-top:20px;}
+
+#projects-list li {
+	border:1px solid #dddddd;
+	background:#f0f0f0;
+	font-weight:bold;
+	width:50%;
+	padding:10px;
+	cursor:move;
+    background:linear-gradient(#f7f7f7, #e7e7e7);
+    background:-moz-linear-gradient(#f7f7f7, #e7e7e7);
+    background:-webkit-gradient(linear, left top, left bottom, from(#f7f7f7), to(#e7e7e7));
+    background:-webkit-linear-gradient(#f7f7f7, #e7e7e7);
+    background:-o-linear-gradient(#f7f7f7, #e7e7e7);
+	border-raidus:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+}
+
+#projects-list li table {
+	width:100%;
+	overflow:hidden;
+}
+
+#projects-list li table td {font-size:1.2em;}
+
+#projects-list li table td span {float:right;}
+ 
+#loading-animation {display:none;}

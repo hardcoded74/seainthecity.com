@@ -1,0 +1,216 @@
+body, 
+input, 
+li p,
+textarea, 
+code,
+.blog .format-link .entry_link_content h6,
+.widget_custom_contact_form_entries .cmsms-form-builder .form_info label,
+.cmsms-form-builder .check_parent input[type="checkbox"]+label, 
+.cmsms-form-builder input[type="radio"]+label {font:13px/18px "Droid Sans", Arial, Geneva, Helvetica, sans-serif;}
+
+h1 {font:48px/54px "Open Sans", Arial, Geneva, Helvetica, sans-serif; font-weight:300;}
+
+h2 {font:42px/54px "Open Sans", Arial, Geneva, Helvetica, sans-serif; font-weight:300;}
+
+h3, .sitemap > li > span a {font:36px/36px "Open Sans", Arial, Geneva, Helvetica, sans-serif; font-weight:300;}
+
+h4, 
+.format-quote .aside blockquote {font:24px/36px "Open Sans", Arial, Geneva, Helvetica, sans-serif;}
+
+h5 {font:italic 20px/36px "Open Sans", Arial, Geneva, Helvetica, sans-serif;}
+
+h6 {font:20px/26px "Open Sans", Arial, Geneva, Helvetica, sans-serif;}
+
+li {line-height:24px;}
+
+small, abbr{font:11px/18px "Droid Sans", Arial, Geneva, Helvetica, sans-serif;}
+
+.widget .cmsms-form-builder label, 
+ul.p_filter li a, 
+.togg .tog,
+.acc .tog,
+span.dropcap,
+span.dropcap2,
+blockquote,
+.button_large,
+.sitemap > li > ul > li > span a,
+.cms_archive li,
+.bottom_inner .cmsms_content_slider_parent a,
+.blog .format-aside .entry-content   {font-family:"Open Sans", Arial, Geneva, Helvetica, sans-serif;}
+
+#navigation li a {	font-family:"Droid Sans", Arial, Geneva, Helvetica, sans-serif;}
+
+body,
+.color_1,
+textarea, 
+input,
+.tog.current,
+a:hover,
+div.jp-playlist li:hover a,
+div.jp-playlist li.jp-playlist-current a,
+.sitemap > li span a,
+.sitemap > li > ul li span a:hover,
+.cms_archive li span a:hover, 
+.entry h5 a,
+.blog .format-link .entry-content h6,
+.related_posts_content .one_half a:hover {color:#434343;}
+
+#top_sidebar, 
+#top_sidebar h1, 
+#top_sidebar h2, 
+#top_sidebar h3, 
+#top_sidebar h4, 
+#top_sidebar h5, 
+#top_sidebar h6,
+#top_sidebar a,
+#top_sidebar .button, 
+#top_sidebar .button_medium, 
+#top_sidebar .button_large,
+#top_sidebar .button:hover, 
+#top_sidebar .button_medium:hover, 
+#top_sidebar .button_large:hover,
+.slideCaption .button,
+.slideCaption .button:hover,
+.pj_sort_wrap .button,
+.bottom_inner,
+.bottom_inner h1,
+.bottom_inner h2,
+.bottom_inner h3,
+.bottom_inner h4,
+.bottom_inner h5,
+.bottom_inner h6,
+.bottom_inner a, 
+#navigation li > a,
+.widget_custom_contact_form_entries .form_info label, 
+.tags li a:hover,
+.cont_nav,
+.cont_nav a,
+.cont_nav a:hover,
+.bottom_inner .button, 
+.bottom_inner .button_medium, 
+.bottom_inner .button_large,
+.bottom_inner .button:hover, 
+.bottom_inner .button_medium:hover, 
+.bottom_inner .button_large:hover,
+.slideCaption .button,
+.slideCaption .button:hover,
+.bottom_inner textarea, 
+.bottom_inner input,
+#top_sidebar textarea, 
+#top_sidebar input,
+#top_sidebar form label,
+.footer_inner,
+span.dropcap2,
+ul.p_filter li a,
+.slide-description-short h1,
+.formError .formErrorContent,
+.blackPopup .formErrorContent,
+.blackPopup .formErrorArrow div,
+.social_block,
+.table thead th,
+.wp-pagenavi a,
+.wp-pagenavi a:hover,
+.slideCaptionInner,
+.slideCaptionInner h1,
+.slideCaptionInner h2,
+.slideCaptionInner h3,
+.slideCaptionInner h4,
+.slideCaptionInner h5,
+.slideCaptionInner h6 {color:#ffffff;}
+
+.post-categories li,
+.post-categories li a,
+.cmsms_category li,
+.cmsms_category li a,
+.cmsms_info,
+abbr,
+small,
+.user_name,
+.user_name a,
+a.cmsms_comments,
+.cmsms_tags a {color:#9a9a9a;}
+
+.table tbody td,
+code,
+.comment-content,
+.cmsms-form-builder span.db,
+#middle label,
+.color_3 {color:#777777;}
+
+span.dropcap,
+q, blockquote,
+.format-quote .entry-title,
+.opened-article aside h3,
+.post.hentry aside h3, 
+.post.hentry #commentform h3,
+.blog aside h5,
+.post.hentry aside h5,
+.comment-authorinfo .name {color:#565656;}
+
+h1 {color:#000000;}
+
+h2 {color:#000000;}
+
+h3 {color:#000000;}
+
+h4 {color:#000000;}
+
+h5 {color:#000000;}
+
+h6 {color:#000000;}
+
+a,
+.cmsmsLike:hover span,
+.sitemap > li > span a:hover,
+.sitemap > li > ul li span a,
+.entry h5 a:hover,
+.post-categories li a:hover,
+.cmsms_category li a:hover,
+.cmsms_tags a:hover,
+.sitemap > li span a:hover,
+ul.p_filter li a:hover,
+ul.p_filter li.current a,
+.user_name a:hover,
+a.cmsms_comments:hover,
+.related_posts_content .one_half a,
+div.jp-playlist li a,
+.tour li a,
+.color_2 {color:#1baddf;}
+
+code:before, 
+span.dropcap2, 
+.table thead th, 
+.colored_block, 
+#navigation > li.current_page_item > a, 
+#navigation > li.current-menu-ancestor > a,
+#navigation > li:hover > a, 
+#navigation li:hover ul li:hover > a,
+#navigation ul li.current_page_item > a,
+#navigation ul li.current-menu-ancestor > a,
+.shortcode_slideshow ul.shortcode_slideshow_pager li.current a, 
+.shortcode_slideshow ul.shortcode_slideshow_pager li a:hover, 
+.wp-pagenavi a, 
+.cmsmsLike:hover, 
+.cmsmsLike.active, 
+#top_sidebar .button:hover, 
+#top_sidebar .button_medium:hover, 
+#top_sidebar .button_large:hover, 
+.slideCaption .button:hover,
+#bottom .button:hover, 
+#bottom .button_medium:hover, 
+#bottom .button_large:hover,
+.cmsms_slider_parent a.cmsms_close_video:hover, 
+div.jp-playlist li.jp-playlist-current:before,
+div.jp-playlist li:hover:before,
+.pj_sort_wrap .pj_sort .button,
+.slideCaption .button:hover,
+.shortcode_slideshow_container .cmsms_slides_nav a:hover,
+.shortcode_slideshow_container .cmsms_slides_nav li.active a {background-color:#1baddf;}
+
+.comment-reply-link,
+.button, 
+.button_medium, 
+.button_large,
+.cmsms_plus,
+#slide_top,
+.shortcode_slideshow_container .cmsms_slides_nav a {background-color:#ffffff;}

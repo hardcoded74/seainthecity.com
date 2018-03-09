@@ -1,0 +1,96 @@
+.column-visibility .wpb-wctm-icon {
+    display: block;
+    text-indent: -9999px;
+    position: relative;
+    height: 1em;
+    width: 1em;
+    background: 0 0;
+    font-size: 1.4em;
+    margin: 0;
+}
+.column-visibility .wpb-wctm-icon:after {
+    font-family: WooCommerce;
+    speak: none;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+    text-indent: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.column-visibility .wpb-wctm-icon.wpb-wctm-visibility-show:after {
+	content: "\e015";
+	color: #2ecc71;
+}
+.column-visibility .wpb-wctm-icon.wpb-wctm-visibility-hide:after {
+    content: "\e013";
+    color: #c0392b;
+}
+
+/**
+ * WPBean Admin CSS
+ */
+
+.wpb_wpbean_socials {
+    margin-bottom: 15px;
+    display: block!important;
+    visibility: visible!important;
+    overflow: hidden;
+}
+.wpb_wpbean_socials > a {
+    margin-right: 10px;
+    display: inline-block;
+    line-height: 19px;
+    text-decoration: none;
+    color: #fff;
+    padding: 6px 12px;
+    -webkit-font-smoothing: antialiased;
+    font-weight: bold;
+    transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+}
+.wpb_wpbean_socials > a:focus,
+.wpb_wpbean_socials > a:active {
+    outline: 0;
+    box-shadow: none;
+}
+
+.wpb_wpbean_socials > a.wpb_facebook {
+    background: #5D82D1;
+}
+.wpb_wpbean_socials > a.wpb_twitter {
+    background: #40BFF5;
+}
+.wpb_wpbean_socials > a.wpb_googleplus {
+    background: #EB5E4C;
+}
+.wpb_wpbean_socials > a.wpb_youtube {
+    background: #cc181e;
+}
+.wpb_wpbean_socials > a.wpb_pro {
+    background: #34495e;
+}
+.wpb_wpbean_socials > a.wpb_facebook:hover {
+    background: rgba(93, 130, 209, 0.75);
+}
+.wpb_wpbean_socials > a.wpb_twitter:hover {
+    background: rgba(64, 191, 245, 0.75);
+}
+.wpb_wpbean_socials > a.wpb_googleplus:hover {
+    background: rgba(235, 94, 76, 0.75);
+}
+.wpb_wpbean_socials > a.wpb_youtube:hover {
+    background: rgba(204, 24, 30, 0.75);
+}
+.wpb_wpbean_socials > a.wpb_pro:hover {
+    background: #2c3e50;
+}

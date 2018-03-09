@@ -1,0 +1,16 @@
+/**
+ * @package WordPress
+ * @subpackage Brilliant
+ * @since Brilliant 1.0
+ * 
+ * Stylesheet for Visual Editor
+ * Created by CMSMasters
+ * 
+ */
+
+
+img.alignleft {margin:0 20px 20px 0;}
+
+img.alignright {margin:0 0 20px 20px;}
+
+img.aligncenter {margin-bottom:20px;}

@@ -1,0 +1,370 @@
+<style type="text/css">
+<!--
+
+/*
+ * Copyright 2010, Maintain Fit LLC, Daniel Watrous, All rights reserved
+ * By using this software you agree to be bound by the terms
+ * outlined in the License.txt file included with the software.
+ *
+ * If you still have questions please send them to helpdesk@danielwatrous.com
+ *
+ */
+
+form {  /* set width in form, not fieldset (still takes up more room w/ fieldset width */
+  font:100% verdana,arial,sans-serif;
+  margin: 0;
+  padding: 0;
+  min-width: 500px;
+  max-width: 620px;
+  width: 600px;
+}
+
+form fieldset {
+  / * clear: both; note that this clear causes inputs to break to left in ie5.x mac, commented out */
+  border-color: #000;
+  border-width: 1px;
+  border-style: solid;
+  padding: 10px;        /* padding in fieldset support spotty in IE */
+  margin: 0;
+}
+
+form fieldset legend {
+	font-size:1.1em; /* bump up legend font size, not too large or it'll overwrite border on left */
+					   /* be careful with padding, it'll shift the nice offset on top of border  */
+}
+
+form label {
+	display: block;  /* block float the labels to left column, set a width */
+	float: left;
+	width: 220px;
+	padding: 0;
+	margin: 5px 0 0; /* set top margin same as form input - textarea etc. elements */
+	text-align: right;
+}
+
+form input, form textarea, form select {
+	/* display: inline; inline display must not be set or will hide submit buttons in IE 5x mac */
+	width:auto;      /* set width of form elements to auto-size, otherwise watch for wrap on resize */
+	margin:5px 0 0 10px; /* set margin on left of form elements rather than right of
+							  label aligns textarea better in IE */
+}
+form input#saveSurvey {
+    margin-left: 280px;
+}
+form input#reset {
+	margin-left:0px; /* set margin-left back to zero on reset button (set above) */
+}
+
+textarea { overflow: auto; }
+
+form small {
+	display: block;
+	margin: 0 0 5px 230px; /* instructions/comments left margin set to align w/ right column inputs */
+	padding: 1px 3px;
+	font-size: 88%;
+}
+
+form .required{font-weight:bold;} /* uses class instead of div, more efficient */
+
+form br {
+	clear:left; /* setting clear on inputs didn't work consistently, so brs added for degrade */
+}
+
+table {
+	display: table;
+	border-collapse:separate;
+}
+
+td, th {
+	border:1px solid #F2F2F2;
+	padding: 4px;
+}
+
+th {
+	background-color:green;
+	border:1px solid #dddddd;
+	color:white;
+}
+p.search-box {
+	float: right;
+	margin: 0;
+}
+p.search-box .button, p.search-box #transaction-search-input {
+	margin: 0 0 5px 0;
+}
+div#log-container  textarea {
+	font-family: Consolas,Monaco,monospace;
+	font-size: 12px;
+	width: 98%;
+	height: 550px;
+	background-color: #F9F9F9;
+	resize: none;
+}
+/****************************
+ admin stylesheet starts here
+*****************************/
+.Settings-wrap {
+    width: 745px;
+	font: 12px "Lucida Grande",Verdana,sans-serif;
+}
+.info-box {
+    background: url("images/info_bg.png") no-repeat scroll left top transparent;
+    font-family: arial,sans-serif;
+    font-size: 12px;
+    height: 85px;
+    margin: 5px 5px 14px 0;
+    padding: 15px 15px 12px;
+    width: 715px;
+	color:#1e3950;
+}
+.info-content{
+	background: url("images/info_icon.png") no-repeat scroll left top transparent;
+	padding-left: 27px;
+    padding-top: 2px;	
+	height: 70px;
+}
+.Owner {
+	font-weight:bold;
+	color:#1e3950;
+	float:right;
+}
+.Owner a{
+	text-decoration:underline;
+	color:#1e3950;
+	font-weight:bold;
+}
+.settings-header {
+    background: url("images/bg.gif") repeat-x scroll center bottom #FFFFFF;
+    float: left;    
+    *height:29px;
+    line-height: normal;
+    width: 100%;
+	border-bottom: 1px solid #D8D8D8;
+}
+.settings-header ul {    
+    float: left;
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;    
+}
+.settings-header li {
+    background: url("images/left.gif") no-repeat scroll left top #FFFFFF;
+    float: left;
+    margin: 0 0 -1px;
+    padding: 0 0 0 9px;
+    position: relative;
+    z-index: 10;
+}
+.settings-header ul li span {
+    background: url("images/right.gif") no-repeat scroll right top transparent;
+    color: #000000;
+    display: block;
+    float: left;
+    font-weight: bold;
+    /*padding: 6px 15px 8px 6px;*/ 	/*Please Include this line also, it's a backup*/
+    padding: 7px 19px 11px 6px;
+    text-decoration: none;
+    font-size: 13px;
+}
+.settings-header ul li span{
+    float: none;
+}
+.settings-help {
+    color: #A7A7A7;
+    font-size: 11px;
+}
+.update-send-buttons {
+    float: right;    
+}
+.Send-btn{
+	background: url("images/btn-left.png") no-repeat scroll left top transparent;
+    float: left;
+    margin: 0;
+    padding: 0 0 0 9px;
+}
+.Send-btn a{
+	background: url("images/btn-right.png") no-repeat scroll right top transparent;
+    color: #FFFFFF;
+    display: block;
+    float: left;
+    font-weight: bold;
+    padding: 5px 15px 7px 6px;
+    text-decoration: none;
+}
+.delete{
+	background: url("images/btn-left.png") no-repeat scroll left top transparent;
+    float: left;
+    margin: 0;
+    padding: 0 0 0 9px;
+}
+.delete a{
+	background: url("images/btn-right.png") no-repeat scroll right top transparent;
+    color: #FFFFFF;
+    display: block;
+    float: left;
+    font-weight: bold;
+    padding: 5px 15px 7px 6px;
+    text-decoration: none;
+}
+.delete a span{
+	background: url("images/delete.gif") no-repeat scroll left top transparent;    
+    margin: 0;
+    padding: 0 0 0 19px;
+}
+.update-settings-btn{
+    float: left;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.update-variable-payment {
+   margin-left: 280px;
+   margin-top: 40px;
+}
+.settings-container {
+    border: 1px solid #D8D8D8;
+	border-top:none;
+	float:left;
+	padding: 14px;
+	margin-bottom: 9px;
+	width: 715px;
+}
+.settings-help {
+    float: left;
+    font-size: 11px;
+    line-height: 22px;
+    width: 270px;
+	margin-left: 15px;
+}
+.settings-container h3 {
+    border-bottom: 1px solid #E7E7E7;
+    float: left;
+    font-size: 1.1em;
+    margin: 10px 0;
+    padding: 7px 0;
+    width: 100%;
+}
+.Settings-wrap input[type="text"]{	
+    border: 1px solid #CCCCCC;
+	border-radius: 4px 4px 4px 4px;
+	background:#FAFAFA;	
+	padding:3px !important;
+	float: left;
+	/*margin: 2px 0 0 17px !important;*/
+}
+.set-input{
+	margin: 2px 12px 0 17px !important;
+}
+.Settings-wrap select{	
+    border: 1px solid #CCCCCC;
+	border-radius: 4px 4px 4px 4px;
+	background:#FAFAFA;	
+	padding:3px !important;
+	/*margin: 2px 0 0 17px !important;*/
+}
+.Settings-wrap textarea:focus, .Settings-wrap textarea:hover, Settings-wrap input[type="text"]:focus, .Settings-wrap input[type="text"]:hover, .Settings-wrap select:hover{
+	background:#FFFFFF;
+}
+input[type="checkbox"], input[type="radio"] {
+    vertical-align: top !important;
+}
+.fields{  
+    float: left;
+    margin: 0 15px 15px 0;
+    width: 422px;
+}
+.radio-list{
+	margin: 4px 0 0 24px;
+	float:left;
+}
+.small{
+	width:200px;
+}
+
+.logo {
+	padding: 12px 0 5px 0;
+}
+.Settings-wrap form  {  /* set width in form, not fieldset (still takes up more room w/ fieldset width */
+  min-width: 500px;
+  max-width: 620px;
+}
+.Settings-wrap  form .authnet_details  small, 
+.Settings-wrap  form .variable_payments_options  small, 
+.Settings-wrap  form .checkout_options  small ,
+.Settings-wrap  form .checkout_template_preferences  small,
+.Settings-wrap  form .memberwing_options  small ,
+.Settings-wrap  form .wishlist_options  small {
+	display: inline-block;
+}
+.Settings-wrap #buy-now-link , 
+.Settings-wrap #start-date, 
+.Settings-wrap #end-date{
+	float: none;
+}
+.Settings-wrap #download-transactions {
+	margin: 0 0 0 280px;
+}
+#start-date-delay {
+text-align: left;
+padding-left: 5px;
+padding-top: 3px;
+}
+.update-cancel-subscription {
+   margin-left:15px;
+}
+/* admin stylesheet ends here */
+
+/*======================================== */
+/*  Warning message on admin pages for SSL */
+/*======================================== */
+.use-ssl-warning-admin-pages {
+    background: url('authnet_images/warning.png') left center no-repeat;
+    margin: 5px 0 15px;
+    background-color: lightYellow;
+    border-color: #FF0000;
+    padding: 0 40px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    border-width: 1px;
+    border-style: solid;
+    width: 665px;
+}
+.use-ssl-warning-admin-pages p {
+    margin: 14px 0 12px 0;
+}
+/*============================================================= */
+/*  Warning message on user subscriptions for update/cancel SSL*/
+/*============================================================= */
+.use-ssl-warning-update-cancel {
+    background: url('authnet_images/warning.png') left center no-repeat;
+    margin: 5px 0 15px;
+    background-color: lightYellow;
+    border-color: #FF0000;
+    padding: 0 40px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    border-width: 1px;
+    border-style: solid;
+    width: 365px;
+}
+.use-ssl-warning-update-cancel p {
+    margin: 14px 0 12px 0;
+    font-size: 11px;
+}
+#survey-invalid {
+    color: red;
+}
+div.variable-subscription {
+    float: right;
+    margin-right: 20px;
+    margin-top: 3px;
+}
+input.hintTextbox { color: #888; } 
+input.hintTextboxActive { color: #000; }
+div.email-settings-help {
+ background: url('images/help.png') left center no-repeat;
+ width:32px;
+ height:32px;
+ float:right
+}
+-->
+</style>

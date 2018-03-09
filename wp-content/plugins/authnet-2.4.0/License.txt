@@ -1,0 +1,201 @@
+IMPORTANT LEGAL AGREEMENT - PLEASE READ CAREFULLY
+
+This end user license agreement (EULA) constitutes a valid and binding agreement
+between Maintain Fit LLC (‘Licensor") and you and any organization you represent
+(collectively, "Licensee") for the use of Authorize.net for WordPress ("Licensed
+Work") provided to Licensee by Licensor.  Licensee understands and agrees that the
+Licensed Work includes Open Source Software components.  Licensee understands and
+agrees that the Licensed Work also includes proprietary works ("Proprietary Works")
+such as Source Code, Object Code, documentation, and other Confidential Proprietary
+Information, all of which are considered part of the Licensed Work, and all of which
+are all owned by Licensor and protected by Federal and International Copyright Laws.
+Licensee agrees to be bound by the terms of this Agreement and any new versions of it.
+Licensor reserves any right not expressly granted to the Licensee.  Licensee hereby
+waives any rights or requirements under any laws or regulations in any jurisdiction
+that requires an original (non-electronic) signature or delivery or retention of non-
+electronic records, to the extent permitted under applicable mandatory law.
+
+Definitions
+In this Agreement the following capitalized definitions are being used, singular as
+well as plural.
+
+"Affiliate" means any staff member of Licensor or other 3rd party corporation, company
+or other entity that directly or indirectly assists Licensor with the Licensed Work.
+
+"Confidential Proprietary Information" means any and all information provided to
+Licensee by Licensor, including, but not limited to, documentation, trademarks, names,
+signs, logos, banners, and any other materials, in whatever form, owned and/or used by
+Licensor for the use and/or promotion of the Licensed Work as well as Licensor’s other
+products and activities.
+
+"Derivative Work" means creation of a new work by modification of Licensed Work.
+
+"Effective Date" means the date on which this Agreement is entered into.
+
+"GPLv2 License" means the General Public License, Version 2, which is used for Open
+Source Software.
+
+"IP Rights" means any and all intellectual property rights, including but not limited
+to copyrights, trademarks and patents, as well as know how and trade secrets contained
+in or relating to the Proprietary Work and any Confidential Proprietary Information
+included within the Licensed Work.
+
+"Open Source Software" means computer software that is available in source code form
+for which the source code and certain other rights normally reserved by the creator of
+the software are provided under a software license that permits users to study,
+change, and improve the software.
+
+"Object Code" means the non-human-readable or binary code as used to executed a
+program as the result of compiling Source Code.
+
+"Source code" means the version the human-readable software code used to create the
+Licensed Work.
+
+License Granted
+For the Open Source Software portion of the Licensed Work, Licensee agrees to be
+subject to the terms of this Agreement as limited by the GPLv2 License.
+
+For the Proprietary Work, Licensee agrees to be fully bound the terms of this
+Agreement.  Licensor hereby grants Licensee a limited, personal, non-exclusive, non-
+sub licensable, nontransferable license to use the Licensed Work on computer systems
+owned, leased, or otherwise controlled by the Licensee in its own facilities or
+facilities under its control.
+
+Restrictions
+For the Open Source Software portion of the Licensed Work, Licensee is only limited
+according to the restrictions imposed by the GPLv2 License. Licensee may alter such
+portion as Licensee sees fit.
+
+For the Proprietary Work, Licensee is restricted from any actions not explicitly
+granted by this Agreement, including, but not limited to, the following actions:
+A.  User shall not sell, assign, rent, lease, distribute, export, import, act as an
+    intermediary or provider, or otherwise grant rights to third parties with regard 
+    to the Proprietary Work or any part of it.
+B.  Licensee shall not undertake, cause, permit or authorize the translation, reverse 
+    engineering, decompiling, disassembling or hacking of the Proprietary Work.
+C.  Licensee shall not create Derivative Works using any portion of the Proprietary Work.
+
+Changes to Licensed Work
+Licensor, in its sole discretion, reserves the right to add additional features or
+functions, or to provide programming fixes, updates and upgrades, to the Licensed
+Work.  Licensee understands and agrees that Licensor has no obligation to make
+available to Licensee any subsequent versions of the Licensed Work, unless otherwise
+agreed.  Licensee also agrees that Licensee may have to enter into a renewed version
+of this Agreement, in the event Licensee wants to install or use a new version of the
+Licensed Work.  Furthermore, Licensee understands and agrees that Licensor is in no
+way liable for damages of any kind nor is Licensor obligated to assist Licensee in any
+way, should such changes cause loss of functionality, errors, or other such issues in
+Licensee’s current version of the Licensed Work.
+
+Confidentiality
+Licensee understands and agrees that the Proprietary Work contains valuable
+Confidential Proprietary Information and that unauthorized use of such is harmful to
+Licensor.  As such, Licensee shall take all reasonable steps to at all times protect
+and maintain any confidential information regarding the Proprietary Work and the
+Confidential Proprietary Information associated with it.  End-User shall employ
+reasonable security precautions to prevent unauthorized persons from having access to
+any such confidential information.
+
+Exclusive Ownership
+Licensee understands and agrees that any and all IP Rights to the Proprietary Work, as
+well as in any Derivative Works created by Licensor, are the exclusive property of
+Licensor.  Licensee understands and agrees that nothing in this Agreement intends to
+transfer any such IP Rights to, or to vest any such IP Rights in, Licensee.  Licensee
+will not take any action to jeopardize, limit or interfere with such IP Rights.
+Licensee understands and agrees that any unauthorized use of IP Rights is a violation
+of this Agreement as well as a violation of intellectual property laws, including, but
+not limited to, copyright laws and trademark laws.  Licensee agrees that Licensee will
+not remove, obscure, make illegible or alter any notices or indications of IP Rights
+and/or Licensor’s rights and ownership thereof, whether such notice or indications are
+affixed on, contained in or otherwise connected to such materials.
+
+Secure Socket Layer (SSL) Disclaimer
+Licensee understands and agrees that the Licensed Work allows for the processing of
+credit card information.   Licensee understands and agrees that the Licensed Work may
+be used in a manner that bypasses the use of SSL protection during testing and
+development.  Licensee understands and agrees that without the use of SSL protection,
+any sensitive data, such as names, addresses, credit cards, and other personally
+identifiable information (collectively, "Sensitive Information") may be viewed and/or
+misappropriated by third parties.  Licensee understands and agrees that Licensee’s
+collection of Sensitive Information is at Licensee’s sole risk and that Licensor has
+no liability whatsoever to Licensee or any other parties for the viewing and/or
+misappropriation of Sensitive Information, regardless of how the Licensed Work was
+used, whether with or without SSL protection.
+
+Disclaimer of Warranties
+THE LICENSED WORK IS PROVIDED "AS IS", WITH NO WARRANTIES WHATSOEVER; LICENSOR DOES
+NOT, EITHER EXPRESSED, IMPLIED OR STATUTORY, MAKE ANY WARRANTIES, CLAIMS OR
+REPRESENTATIONS WITH RESPECT TO THE LICENSED WORK, INCLUDING, WITHOUT LIMITATION,
+WARRANTIES OF QUALITY, PERFORMANCE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR
+USE OR A PARTICULAR PURPOSE.  LICENSOR FURTHER DOES NOT REPRESENT OR WARRANT THAT THE
+LICENSED WORK WILL ALWAYS BE AVAILABLE, ACCESSIBLE, UNINTERRUPTED, TIMELY, SECURE,
+ACCURATE, COMPLETE AND ERROR-FREE.  LICENSEE ASSUMES ALL RISKS ARISING OUT OF
+LICENSEE’S USE OF THE LICENSED WORK, TO THE MAXIMUM EXTENT PERMITTED BY LAW.  SOME
+JURISDICTIONS DO NOT ALLOW FOR THE EXCLUSIONS AND LIMITATIONS AS SPECIFIED HERE AND TO
+THE LEAST EXTENT AS ALLOWED BY LAW, SUCH EXCLUSIONS AND LIMITATIONS MAY NOT APPLY TO
+LICENSEE.  LICENSEE’S MODIFICATION OF ANY PORTION OF THE LICENSED WORK VOIDS ANY
+WARRANTY ALLOWED OR ENFORCED BY LAW.
+
+Termination
+This Agreement will be effective as of earlier of the date on which Licensee installs
+or begins use of the Licensed Work and will remain effective until terminated by
+either Licensor or Licensee as described below.  Licensee may terminate this Agreement
+without notice by uninstalling the Licensed Work from all computers on which Licensee
+installed it.  If Licensor determines that Licensee has violated this Agreement,
+Licensor may terminate this Agreement immediately without notice to Licensee.  Upon
+termination of this Agreement, Licensee shall immediately cease use of the Licensed
+Work.  Licensee understands and agrees that Licensor is not liable for any damage
+caused by the termination of this Agreement.
+
+Indemnification of Licensor
+Licensee represents and warrants that Licensee is authorized to enter into this
+Agreement and comply with its terms.  Furthermore, Licensee represents and warrants
+that Licensee will at all times comply with Licensee’s obligations under this
+Agreement, as well as with any and all laws, regulations, and policies that may apply
+to Licensee’s use of the Licensed Work.  Licensee agree to indemnify, defend and hold
+Licensor, its officers, and employees harmless from and against any and all liability
+and costs, including reasonable attorneys’ fees incurred by Licensor, in connection
+with or arising out of Licensee’s violation or breach of any term of this Agreement or
+any applicable law or regulation, whether referenced within this Agreement or not;
+Licensee’s violation of any rights of any third party; or Licensee’s use or misuse of
+the Licensed Work.
+
+Limitation of Liability
+LICENSEE UNDERSTANDS AND AGREES THAT LICENSOR AND ITS AFFILIATES WILL HAVE NO
+LIABILITY IN CONNECTION WITH OR ARISING FROM LICENSEE’S USE OF THE LICENSED WORK OR
+DERIVATIVE WORKS, AS SET FORTH BELOW.  IN NO EVENT SHALL LICENSOR BE LIABLE, WHETHER
+IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR ANY OTHER
+FORM OF LIABILITY, FOR ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES
+(INCLUDING WITHOUT LIMITATION ANY LOSS OF DATA, INTERRUPTION, COMPUTER FAILURE OR
+PECUNIARY LOSS) ARISING OUT OF THE USE OR INABILITY TO USE THE LICENSE WORK OR
+DERIVATIVE WORKS, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES.  LICENSEE’S ONLY RIGHT OR REMEDY WITH RESPECT TO ANY PROBLEMS OR
+DISSATISFACTION WITH THE LICENSED WORK IS LIMITED TO FIVE DOLLARS ($5).  SOME
+JURISDICTIONS DO NOT ALLOW FOR THE EXCLUSIONS AND LIMITATIONS AS SPECIFIED HERE AND TO
+THE LEAST EXTENT AS ALLOWED BY LAW, SUCH EXCLUSIONS AND LIMITATIONS MAY NOT APPLY TO
+LICENSEE.
+
+General Provisions
+Licensor reserves the right to modify this Agreement at any time by providing such
+revised Agreement to Licensee.  Licensee’s continued use of the Licensed Work shall
+constitute Licensee’s acceptance to be bound by the terms and conditions of the
+revised Agreement.  Licensee understands and agrees that this Agreement constitutes
+the entire agreement between Licensee and Licensor and that it supersedes all prior
+understandings and agreements, in whatever form.  Should any term or provision of this
+Agreement be deemed invalid or unenforceable by a court of law, either in its entirety
+or in a particular application, the remainder of this Agreement still remains in full
+force and effect.  The failure of Licensor at any time or times to require performance
+of any provisions of this Agreement in no way affects Licensor’s right at a later time
+to enforce the same unless the same is explicitly waived in writing and signed by
+Licensor.  Licensor is allowed to at its sole discretion assign this Agreement or any
+rights hereunder to any Affiliate, without giving prior notice.  This Agreement shall
+be governed by and construed in accordance with the laws of the State of Idaho.
+
+BY USING THE LICENSED WORK, LICENSEE EXPRESSLY UNDERSTANDS THAT LICENSEE HAS READ THIS
+AGREEMENT; UNDERSTANDS THE RIGHTS, OBLIGATIONS, TERMS AND CONDITIONS CONTAINED WITHIN;
+AND EXPRESSLY CONSENTS TO BE BOUND BY IT.
+
+© Maintain Fit LLC - Last revised: June 23, 2011.
+PO Box 191078
+Boise, ID 83719-1078
+helpdesk@danielwatrous.com

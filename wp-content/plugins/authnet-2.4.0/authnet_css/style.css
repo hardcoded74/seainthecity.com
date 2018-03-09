@@ -1,0 +1,774 @@
+/* CSS Document */
+body{
+	  padding:0px; 
+	  margin:0px;
+}
+/*
+------------------------
+CONTAINER
+------------------------
+*/
+#authnet_container {
+    background: url("../authnet_images/bg.jpg") repeat-x scroll left top #FFFFFF;
+    float: left;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+	font:normal 12PX Arial, Helvetica, sans-serif; color:#474646;
+}
+#authnet_wrapper{
+  width:1014px; 
+  padding:0px; 
+  margin:0px auto;
+}
+/*
+------------------------
+HEADER PART
+------------------------
+*/
+.authnet_header_part{
+	width:943px; 
+	padding:32px 0px 0px 0px; 
+	margin:0px; 
+	float:left;
+}
+.authnet_logo_area{
+	width:253px; 
+	height:57px; 
+	padding:0px; 
+	margin:0px; 
+	float:left;
+}
+.navigation_part{
+	width:554px; 
+	height:47px; 
+	padding:9px 0px 0px 30px; 
+	margin:0px; 
+	float:left;
+}
+.authnet_menu{
+	float: right;
+    margin-top: 20px;
+}
+/*
+------------------------
+CONTAIN_AREA
+------------------------
+*/
+.authnet_precontain_area {
+    float: left;
+    margin: 0;
+    padding: 40px 0px 0px 27px;
+    width: 1014px;
+}
+.authnet_contain_area {
+    float: left;
+    margin: 0;
+    padding: 10px 0 0;
+    width: 1014px;
+}
+.authnet_postcontain_area {
+    float: left;
+    margin: 0;
+    padding: 0px 0px 0px 27px;
+    width: 1014px;
+}
+.contain_header_part3{
+	width:930px;  
+	padding:0px 22px 0px 24px; 
+	margin:0px; 
+	margin-bottom: 15px;
+}
+.authnet_page1{
+    border: 1px solid #E6EDEF;
+    border-radius: 5px 5px 5px 5px;
+    float: left;
+    margin-left: 25px;
+    margin-right: 0 !important;
+    margin-top: 0 !important;
+    padding: 0 0 5px;
+    width: 918px;
+	margin-bottom: 26px;
+}
+.authnet_page2{
+	margin-left:26px;
+	float: left;
+	width: 942px;
+}
+.authnet_page3 {
+    padding-left: 26px;
+    width: 913px;
+	float: left;
+}
+.authnet_billing_box{
+	width:458px;
+	margin-top: 20px;
+	float:left;
+	margin-right:21px;
+	padding-left: 26px;
+}
+.authnet_billing_box2 {
+    border: 2px solid #D2D6D7;
+    float: left;
+    margin-bottom: 22px;
+    margin-right: 21px;
+    margin-top: -17px;
+    padding-left: 26px;
+    padding-top: 26px;
+    width: 410px;
+}
+.authnet_payment_box{
+	width:458px;
+	float:left;
+}
+.authnet_billing_box .content {
+	clear:both;
+	color:#768997;
+}
+.authnet_payment_box .content{
+	padding:0px 16px 0px 16px;
+	clear:both;
+}
+.authnet_billing_box_form {
+	margin:18px auto;
+	text-align:center;
+
+}
+.authnet_billing_box_form2 {
+	text-align:center;
+}
+.authnet_heading {
+	width:450px;
+	float:left;
+	text-align:left;
+	background:#f0f4f6;
+}
+.authnet_heading h2{
+	padding:10px 0px 9px 8px;
+	font: normal 19px "Trebuchet MS", Arial;
+	color:#7db0cb;
+	margin: 0 !important;
+}
+.authnet_heading2{
+    float: left;
+	left: 26px;
+    position: relative;
+	width: 500px;
+}
+.authnet_heading2 h2{
+    padding: 4px 17px;
+	font: normal 17px "Trebuchet MS", Arial;
+	color:#7db0cb;
+	background: none repeat scroll 0 0 #E6EDEF;
+    border: 2px solid #D2D6D7;
+	float:left;
+	margin: 0 !important;
+}
+.choose_card {
+	margin-top:17px;
+	padding: 0px 16px 0px 16px;
+}
+.choose_card > img{
+	margin:-4px 8px;
+}
+.choose_card input[type="radio"]{
+	padding:0px 8px;
+
+}
+.page_box_form{
+	width:418px;
+	padding:0px 0px 0px 97px;
+	margin:0px;
+	float:left;
+}
+.authnet_form_part{
+	width: 410px;
+	margin: 0 0 7px;
+	float:left;
+}
+.authnet_form_part2{
+	margin:0px 0px 10px 0px;
+	float:left;
+}
+.card_part{
+	width:418px;
+	padding:0px;
+	margin:0px 0px 10px 0px;
+	float:left;
+	text-align: left;
+}
+.card-container{
+	float: left;
+}
+.card_part img{
+	padding-left:2px;
+}
+.authnet_label_container{
+    color: #444444;
+    float: left;
+    font: bold 12px Arial,serif;
+    height: 25px;
+    margin: 0 8px 0 0;
+    padding: 10px 0 0;
+    text-align: left;
+    width: 130px;
+}
+.authnet_checkbox {
+    float: left;
+    height: 31px;
+    margin: 0 0 28px;
+    padding: 5px 0 0 138px;
+    text-align: left;
+    width: 279px;
+}
+.authnet_checkbox span{
+	padding-left: 5px;
+}
+.form3_input_area{
+	width:240px;
+	height:31px;
+	padding:0px;
+	margin:0px;
+	float:left;
+	text-align: center;
+}
+.authnet_list_area {
+    float: left;
+	overflow: hidden;
+    width: 237px;
+}
+.authnet_list_area2 {
+    float: left;
+    height: 31px;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 114px;
+}
+.authnet_input{
+    font-size: 11px;
+    height: 18px;
+    margin: 0;
+    outline: medium none;
+    padding: 3px 10px !important;
+    width: 217px !important;
+	border-radius: 3px;
+	border: 1px solid #c5cccf !important;
+}
+.authnet_input:focus {
+    font-size: 11px;
+    height: 18px;
+    margin: 0;
+    outline: medium none;
+    padding: 3px 10px;
+    width: 217px;
+	border: 1px solid #b7d4ea;
+	border-radius:3px;
+}
+.authnet_input-small {
+    float: left;
+    font-size: 11px;
+    height: 18px;
+    outline: medium none;
+    padding: 3px 10px;
+    width: 87px;
+	border-radius:3px;
+	border: 1px solid #c5cccf !important;
+}
+.authnet_input-small:focus {
+    float: left;
+    font-size: 11px;
+    height: 18px;
+    outline: medium none;
+    padding: 3px 10px;
+    width: 87px;
+	border: 1px solid #b7d4ea;
+	border-radius:3px;
+}
+a.whatsthis{
+	float: left;
+    padding: 8px 6px;
+    text-decoration: underline;
+	color:#000;
+}
+.card_desc{
+	display:block;
+	clear:both;
+	padding:7px 0px 0px 16px;
+}
+.card_desc p{
+	padding-bottom:10px;
+	width:335px;
+}
+.card_content{
+	float:left;
+	margin-right:40px;
+}
+.card_desc img{
+	float:left;
+}
+.payment_box a{
+	color:#006eae;
+	text-decoration:underline;
+}
+.payment_box a:hover{
+	font-weight:bold;
+}
+.cc_restrictions{
+	display:block;
+	clear:both;
+	padding:0 0 16px 0;
+	float:left;
+}
+.authnet_paynow_container{
+	padding-left: 139px;
+	float:left;
+}
+.authnet_pay_now_bt{
+	/* Sliding right image */
+    background: transparent url('../authnet_images/button_right.png') no-repeat scroll top right; 
+	display: block;
+	height: 43px; /* CHANGE THIS VALUE ACCORDING TO IMAGE HEIGHT */
+	padding-right: 18px; /* CHENGE THIS VALUE ACCORDING TO RIGHT IMAGE WIDTH */
+	/* FONT PROPERTIES */
+	text-decoration: none;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+}
+.authnet_pay_now_image {
+	/* Background left image */ 
+	width: 100% !important;
+	background: transparent url('../authnet_images/button_left.png') no-repeat; 
+	display: block;
+	line-height: 22px; /* CHANGE THIS VALUE ACCORDING TO BUTTONG HEIGHT */
+	padding:8px 10px 13px 18px !important;
+	border:none;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+	color:#FFFFFF;
+	text-shadow: 0 1px 0.9px #444444;
+	cursor:pointer;
+}
+.authnet_variable_payment fieldset {
+    width: 876px;
+}
+.authnet_item_desc{
+	font-family: Arial, Helvetica, Sans Serif;
+	padding:6px 0px 6px;
+	float:left;
+	padding-left:8px;
+	width:907px;
+	background:#fbf9e8;
+	font-weight:bold;
+	font-size:13px;
+	border:2px solid #fcefa1;
+	line-height: 22px;
+	margin: 0 auto 22px 25px;
+}
+.authnet_item_desc3 {
+	font-family: Arial, Helvetica, Sans Serif;
+	padding:6px 0px 6px;
+	float:left;
+	padding-left:8px;
+	width:907px;
+	background:#fbf9e8;
+	font-weight:bold;
+	font-size:13px;
+	border:2px solid #fcefa1;
+	line-height: 22px;
+	margin: 0 auto 22px 1px;
+}
+.authnet_pay_pal_box2{
+	float:right;
+	width:406px;
+	padding:0 29px 10px 0;
+	position:relative;
+}
+.authnet_pay_pal_box{
+	float:right;
+	width:350px;
+	padding:11px 29px 10px 0;
+	position:relative;
+}
+.your_payment {
+    background: url("../authnet_images/header_bg.gif") repeat-x scroll left top transparent;
+    color: #7DB0CB;
+    float: left;
+    font:19px "Trebuchet MS",Arial;
+    padding: 14px 0 25px 16px;
+    width: 902px;
+}
+.authnet_paynow_box{
+	width:494px;
+	background:#fff;
+	float:left;
+	padding-left:15px;
+	padding-top:14px;
+}
+.authnet_paynow_box span{
+	font-weight:bold;
+	font-size:13px;
+	color:#4b4b4b;
+	padding-bottom:25px;
+	display:block;
+}
+/*
+------------------------
+FOOTER	
+------------------------
+*/
+#authnet_footer_area{
+	width:100%; 
+	padding:34px 0px 10px 0px; 
+	height: 80px; 
+	margin:0px auto; 
+	float: left;
+	background:url(../authnet_images/footer_bg.gif) repeat-x top left;
+	font:normal 12PX Arial, Helvetica, sans-serif; color:#474646;
+}
+.authnet_footer_wrapper {
+    margin: 0 auto;
+    padding: 0;
+    width: 964px;
+	color: #312F31;
+}
+.authnet_footer_wrapper a{
+	color: #312F31;
+	text-decoration:underline;
+}
+.authnet_footer_list_area {    
+    padding: 0 0 43px;
+    width: 919px;
+}
+.authnet_footer_list_area div{
+	float:left;
+}
+.authnet_footer_list_area span{
+	float:right;
+}
+.authnet_select {
+    color: #000000;
+    font: 12px/21px arial,sans-serif;
+    height: 25px;
+    outline: 0 none !important;
+    overflow: hidden;
+    padding: 3px 3px 2px 4px;
+    width: 237px;
+    border-radius:3px;
+    border: 1px solid #c5cccf;
+}
+.authnet_select:focus{
+	outline:0 !important;
+	border-radius:3px;
+	border: 1px solid #b7d4ea;
+}
+.authnet_select_small {
+    color: #000000;
+    font: 12px/21px arial,sans-serif;
+    height: 25px;
+    overflow: hidden;
+    padding: 3px 3px 2px 4px;
+    width: 108px;
+    border-radius:3px;
+    border: 1px solid #c5cccf;
+}
+.authnet_select_small_user {
+    color: #000000;
+    font: 12px/21px arial,sans-serif;
+    height: 25px;
+    overflow: hidden;
+    padding: 3px 3px 2px 4px;
+    width: 74px;
+    border-radius:3px;
+    border: 1px solid #c5cccf;
+}
+
+.authnet_select_small:focus {
+	border-radius:3px;
+	border: 1px solid #b7d4ea;
+}
+.authnet_slash{
+	float:left;
+	padding:8px 8px 0 5px;
+}
+.authnet_page3-content-div {
+    border: 2px solid #C5CCCF;
+    border-radius: 4px 4px 4px 4px;
+    float: left;
+    margin-bottom: 27px;
+    width: 100%;
+}
+.authnet_page3-head {
+    float: left;
+    width: 100%;
+}
+.authnet_page3-head h2{
+	color: #7DB0CB;
+    float: left;
+    font: 17px "Trebuchet MS",Arial;
+	background: none repeat scroll 0 0 #FFFFFF;
+	border:2px solid #c5cccf;
+	border-radius:4px;
+	border-bottom-left-radius:0;
+	border-bottom-right-radius:0;
+	position:relative;
+	float:left;
+	border-bottom:none;
+	left: 0;
+    padding: 7px 10px;
+    position: relative;
+    top: 2px;
+	margin: 0 !important;
+}
+.authnet_seals{
+	float:right; 
+	padding: 10px 10px 0;
+}
+.button {
+    -moz-transition: background-position 1s ease 0s;
+    background-clip: border-box;
+    background-image: url("button_bg.png");
+    background-position: left bottom, right top, 0 0pt, 0 0;
+    background-repeat: no-repeat;
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: 0 0 1px #FFFFFF inset;
+    cursor: pointer;
+    display: inline-block;
+    font: 15px Calibri,Arial,sans-serif;
+    padding: 10px 20px;
+    position: relative;
+    text-decoration: none !important;
+    text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.4);
+    vertical-align: baseline;
+    white-space: nowrap;
+}
+.blue.button {
+    background-color: #48B5F2;
+    background-image: url("button_bg.png"), url("button_bg.png"), -moz-radial-gradient(center bottom , circle , #59D0F4 0pt, rgba(89, 208, 244, 0) 100px), -moz-linear-gradient(#4FBBF7, #3FAEEB);
+    border: 1px solid #84ACC3 !important;
+    color: #0F4B6D !important;
+}
+.blue.button:hover {
+    background-color: #63C7FE;
+    background-image: url("button_bg.png"), url("button_bg.png"), -moz-radial-gradient(center bottom , circle , #6DD9FA 0pt, rgba(109, 217, 250, 0) 100px), -moz-linear-gradient(#63C7FE, #58BEF7);
+}
+.button.big {
+    font-size: 30px;
+}
+
+/*========================== */
+/*  Shopcart table           */
+/*========================== */
+.authnet_shopcart_table {
+    border: #000 solid thin;
+    border-spacing: 0px;
+    padding: 0px;
+    text-align: center;
+    width: 900px;
+}
+
+.authnet_shopcart_table thead tr td {
+    border: #000 solid thin;
+    background-color: #7DB0CB;
+    padding: 0px;
+    text-align: center;
+    font-style: italic;
+}
+
+.authnet_shopcart_table tbody tr td {
+    border: #000 solid thin;
+    padding: 0px;
+}
+
+.authnet_shopcart_table tfoot tr td {
+    border: #000 solid thin;
+    padding: 0px;
+}
+
+.authnet_shopcart_table a {
+    font: normal;
+}
+
+.authnet_shopcart_table input[type="submit"] {
+    font: normal;
+    cursor: pointer;
+}
+
+/*========================== */
+/*  Thank You page styles    */
+/*========================== */
+
+.authnet_page{
+	float: left;
+	margin-top: 54px;
+}
+.authnet_Container {
+    border: 1px solid #CFDAE0;
+    border-radius: 3px 3px 3px 3px;
+    float: left;
+    margin-bottom: 32px;
+    margin-left: 28px;
+    min-height: 400px;
+    width: 400px;
+}
+.authnet_Container_purchase, .authnet_Container_survey{
+    border: 1px solid #CFDAE0;
+    border-radius: 3px 3px 3px 3px;
+    float: left;    
+    width: 826px;
+	margin-left: 30px;
+	margin-bottom: 40px;
+}
+.authnet_Header {
+    background-color: #F0F5F6;
+    border-bottom: 1px solid #CFDAE0;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    float: left;
+    width: 100%;
+}
+.authnet_Header h2 {
+    color: #7DB0CB;
+    float: left;
+    font: 17px "Trebuchet MS",Arial;
+    margin: 0;
+    padding: 16px 0 18px 16px;
+}
+.authnet_Form {
+    float: left;
+    padding-left: 26px;
+    padding-top: 20px;
+}
+.authnet_form_row {
+    float: left;
+    margin: 0 0 7px;
+    width: 410px;
+}
+.authnet_label {
+    color: #444444;
+    float: left;
+    font: bold 12px Arial,serif;
+    height: 25px;
+    margin: 0 8px 0 0;
+    padding: 0;
+    text-align: left;
+    width: 130px;
+}
+.authnet_field {
+    color: #444444;
+    font: bold 12px Arial,serif;
+	float: left;
+}
+.authnet_label_container {
+    color: #444444;
+    float: left;
+    font: bold 12px Arial,serif;
+    height: 25px;
+    margin: 0 8px 0 0;
+    padding: 10px 0 0;
+    text-align: left;
+    width: 130px;
+}
+.authnet_table_row {
+    background: none repeat scroll 0 0 #F5F5F5;
+    float: left;
+    font: bold 12px Arial,serif;
+    margin-bottom: 2px;
+    padding: 9px;
+    width: 700px;
+}
+.authnet_table_row_total,.authnet_table_row_title{
+	background: none repeat scroll 0 0 #FBF9E8;
+    border: 1px solid #FCEFA1;
+    float: left;
+    font: bold 12px Arial,serif;
+    margin-bottom: 2px;
+    padding: 8px;
+    width: 700px;
+}
+.authnet_table{
+    float: left;
+    padding-left: 26px;
+    padding-top: 20px;
+    padding-bottom:20px;
+}
+.authnet_product{
+	color:#7db0cb;
+	float:left;
+}	
+.authnet_price {
+    color: #7DB0CB;
+    float: right;
+    text-align: center;
+    width: 100px;
+}
+/*=============== */
+/*  Support        */
+/*=============== */
+.authnet_support{
+	background-color:#f5f5f5;
+	padding:10px;
+	float:left;
+	width:816px;
+	margin-left:30px;
+	margin-bottom:20px;
+	font: 12px Arial,serif;
+	color:#333333
+}
+/*=============== */
+/*  Donation on checkout page */
+/*=============== */
+#single-amount {
+    padding-left: 200px;
+}
+#other-amount {
+    padding-left: 214px;
+}
+
+#make-recurring {
+    padding-left: 161px;
+}
+#recurring-period {
+    padding-left: 150px;
+}
+
+/*======================================== */
+/*  Warning message on checkout page for SSL */
+/*======================================== */
+.use-ssl-warning-checkout {
+    background: url('../authnet_images/warning.png') left center no-repeat;
+    margin: 5px 0 10px 24px;
+    background-color: lightYellow;
+    border-color: #FF0000;
+    padding: 0 40px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    border-width: 1px;
+    border-style: solid;
+    width: 840px;
+}
+.use-ssl-warning-checkout p {
+    margin: 14px 0 12px 0;
+}
+/*===================================================== */
+/*  Warning message on user profile for update/cancel SSL */
+/*===================================================== */
+.use-ssl-warning-update-cancel {
+    background: url('../authnet_images/warning.png') left center no-repeat;
+    margin: 5px 0 15px;
+    background-color: lightYellow;
+    border-color: #FF0000;
+    padding: 0 40px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    border-width: 1px;
+    border-style: solid;
+    width: 365px;
+}
+.use-ssl-warning-update-cancel p {
+    margin: 14px 0 12px 0;
+    font-size: 11px;
+}

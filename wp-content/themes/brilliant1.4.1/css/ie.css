@@ -1,0 +1,188 @@
+/**
+ * @package WordPress
+ * @subpackage Brilliant
+ * @since Brilliant 1.0
+ * 
+ * Custom CSS Rules for Internet Explorer < 9
+ * Created by CMSMasters
+ * 
+ */
+
+/* Internet Explorer 8 Fixes */
+
+#middle {z-index:1;}
+
+.middle_inner {z-index:2;}
+
+#navigation ul {
+	background-color:#000000;
+	border:2px solid #000000;
+	border-top:0;
+	margin:0;
+	top:74px;
+	transition:none;
+}
+
+.responsiveSlider>li img,
+.fullwidth {
+	height:auto;
+	max-height:100%;
+}
+
+div.p_filter {height:1000px;}
+
+a.p_cat_filter.button, 
+.p_sort a[name="p_date"], 
+.p_sort a[name="p_name"],
+#slider .button, 
+#slider .button_medium, 
+#slider .button_large {box-shadow:none;}
+
+a.p_cat_filter span,
+.p_sort a[name="p_date"] span, 
+.p_sort a[name="p_name"] span {padding-top:2px;}
+
+#top_sidebar .widget_custom_contact_form_entries .cmsms-form-builder input[type="text"], 
+#top_sidebar .widget_custom_contact_form_entries .cmsms-form-builder textarea,
+#bottom .widget_custom_contact_form_entries .cmsms-form-builder input[type="text"], 
+#bottom .widget_custom_contact_form_entries .cmsms-form-builder textarea,
+#top_sidebar select,
+#bottom select,
+#top_sidebar .widget_search .search_line input,
+#bottom .widget_search .search_line input {border:1px solid #000000;}
+
+#top_sidebar select,
+#bottom select,
+#top_sidebar option,
+#bottom option,
+#top_sidebar .widget_search .search_line input,
+#bottom .widget_search .search_line input,
+#navigation,
+#navigation ul:before {background-color:#000000;}
+
+.p_filter_container ul.p_filter {
+	background-color:#242424;
+	top:33px;
+}
+
+.button, 
+.button_medium, 
+.button_large {transition:none;}
+
+#navigation ul li:hover > a, 
+#navigation ul li.current_page_item > a,
+#navigation ul li.current-menu-ancestor > a {
+	border-left:1px solid #515151;
+	border-right:1px solid #515151;
+}
+
+#navigation ul li:hover > a span, 
+#navigation ul li.current_page_item > a span,
+#navigation ul li.current-menu-ancestor > a span {
+	padding:10px 21px 11px 36px;
+	border-top:1px solid #000000;
+}
+
+#top_sidebar .button,
+.bottom_inner a.button,
+.slideCaption .button {
+	transition:none;
+	line-height:30px;
+	position:relative;
+	z-index:10;
+}
+
+ul.p_filter li:first-child {padding-top:0;}
+
+.p_filter_container ul.p_filter {top:38px;}
+
+div.jp-video div.jp-interface {display:none;}
+
+div.jp-video:hover div.jp-interface {display:block;}
+
+.format-gallery .shortcode_slideshow .cmsms_slides_nav,
+.entry .shortcode_slideshow_container .cmsms_slides_nav {max-width:none;}
+
+#top_sidebar .cmsms-form-builder input[type="text"]:focus, 
+#top_sidebar .cmsms-form-builder textarea:focus,
+#bottom .cmsms-form-builder input[type="text"]:focus, 
+#bottom .cmsms-form-builder textarea:focus, 
+input[type="text"]:focus, 
+textarea:focus,
+#top_sidebar select:focus,
+#bottom select:focus,
+#top_sidebar .widget_search .search_line input:focus,
+#bottom .widget_search .search_line input:focus {border:2px solid #ffffff;}
+
+input[type="text"],
+textarea {padding-top:9px;}
+
+input[type="text"]:focus,
+textarea:focus {padding-top:8px;}
+
+.cont_nav a {color:#7d5a7b;}
+
+.cont_nav a:hover {color:#ffffff;}
+
+.cmsms-form-builder .check_parent input[type="checkbox"], 
+.cmsms-form-builder .check_parent input[type="radio"] {
+	float:left;
+	top:10px;
+	left:0;
+	opacity:none;
+}
+
+.portfolio figure, 
+.portfolio iframe, 
+.post_type_shortcode .post figure {
+	margin-bottom:0;
+	padding-bottom:15px;
+}
+
+.cmsms-form-builder .check_parent input[type="radio"]+label,
+.cmsms-form-builder .check_parent input[type="checkbox"]+label {background:none;}
+
+html.ie8 .portfolio_container.one_block>.fl, 
+html.ie7 .portfolio_container.one_block>.fl, 
+html.ie8 .portfolio_container.one_block>.fl>.portfolio, 
+html.ie7 .portfolio_container.one_block>.fl>.portfolio {width:100%}
+
+
+/* Tablet Portrait (Note: Design for a width of 768px) */
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+	
+	.portfolio_container {margin-right:-1.9%;}
+	
+}
+
+@media only screen and (min-width: 541px) and (max-width: 767px) {
+
+	.four_blocks.portfolio_container .portfolio,
+	.one_fourth, 
+	.one_fourth.last,  
+	.one_fourth+.one_fourth, 
+	.one_fourth+.one_fourth+.one_fourth, 
+	.one_fourth+.one_fourth+.one_fourth+.one_fourth  {
+		width:100%;
+		float:none;
+		padding-right:0;
+	}
+	
+}
+
+@media only screen and (max-width: 540px) {
+
+	.four_blocks.portfolio_container .portfolio,
+	.one_fourth, 
+	.one_fourth.last,  
+	.one_fourth+.one_fourth, 
+	.one_fourth+.one_fourth+.one_fourth, 
+	.one_fourth+.one_fourth+.one_fourth+.one_fourth  {
+		width:100%;
+		float:none;
+		padding-right:0;
+	}
+	
+}
+
